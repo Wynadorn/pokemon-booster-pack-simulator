@@ -45,7 +45,7 @@ function setDisplay(
       const target = document.getElementById("single-pack-flip-area");
       const card = buildCardHTML(
         ["card", "card--current", "no-card"],
-        "../images/site/cardback.jpg"
+        "./images/site/cardback.jpg"
       );
       card.title = "No cards to display!";
       target.appendChild(card);
@@ -65,7 +65,7 @@ function buildCardHTML(classesToAdd, imageUrl, hiResImageUrl, cardType) {
   if (cardType === "packArt")
     card.style.backgroundImage = "url('" + imageUrl + "')";
   else
-    card.style.backgroundImage = "url('../images/site/pokeball-loading.gif')";
+    card.style.backgroundImage = "url('./images/site/pokeball-loading.gif')";
   preloadImage(card, imageUrl, cardType);
   card.setAttribute("data-card-image", imageUrl);
   card.setAttribute("data-card-image-hi-res", hiResImageUrl);
@@ -120,7 +120,7 @@ function onImageLoaded(card, reverseHoloType) {
   const loadedImageUrl = card.getAttribute("data-card-image");
   if (reverseHoloType === "cssEffectReverseHolo") {
     card.style.backgroundImage =
-      "url('" + loadedImageUrl + "'), url('../images/site/foil.jpg')";
+      "url('" + loadedImageUrl + "'), url('./images/site/foil.jpg')";
     card.classList.add("reverse-holo-effect");
   } else if (reverseHoloType === "imageUrlReverseHolo") {
     card.style.backgroundImage = "url('" + loadedImageUrl + "')";
@@ -273,15 +273,15 @@ function displayRowView(packId, packArtUrls, pack, sortOption) {
     const raritySymbol = document.createElement("img");
     raritySymbol.classList.add("rarity");
     if (pack[i].rarity === "Common")
-      raritySymbol.src = "../images/site/rarity_common.png";
+      raritySymbol.src = "./images/site/rarity_common.png";
     if (pack[i].rarity === "Uncommon")
-      raritySymbol.src = "../images/site/rarity_uncommon.png";
+      raritySymbol.src = "./images/site/rarity_uncommon.png";
     if (
       pack[i].rarity === "Holo Rare" ||
       pack[i].rarity === "Rare" ||
       pack[i].rarity === "Secret Rare"
     )
-      raritySymbol.src = "../images/site/rarity_rare.png";
+      raritySymbol.src = "./images/site/rarity_rare.png";
     card.appendChild(raritySymbol);
   }
 
@@ -488,7 +488,7 @@ function displayGridView(sortOption) {
       );
       gridWrapper.appendChild(card);
       card.addEventListener("click", (e) => {
-        e.target.removeClass("fresh-pull");
+        e.target.classList.remove("fresh-pull");
         zoomCard(allCards[i].imageUrlReverseHolo, "imageUrlReverseHolo");
       });
     } else if (allCards[i].isReverseHolo) {
@@ -560,7 +560,7 @@ modal.onclick = function (e) {
   if (e.target !== document.getElementById("hi-res-card")) {
     modal.style.display = "none";
     document.getElementById("hi-res-card").style.backgroundImage =
-      "url('../images/site/pokeball-loading.gif')";
+      "url('./images/site/pokeball-loading.gif')";
   }
 };
 
@@ -614,6 +614,18 @@ clearPackButton.onclick = () => {
     pulledPacks = [];
     setDisplay();
   }
+};
+
+const savePackButton = document.querySelector(".save-cards");
+savePackButton.onclick = () => {
+  localStorage.setItem("pulledPacks", JSON.stringify(pulledPacks));
+};
+
+const loadPackButton = document.querySelector(".load-cards");
+loadPackButton.onclick = () => {
+  pulledPacks = JSON.parse(localStorage.getItem("pulledPacks"));
+  setDisplay();
+  resortCardsOnDisplay();
 };
 
 const noDuplicatesButton = document.querySelector(".no-duplicates");
@@ -707,3 +719,43 @@ chooseSet();
 showElements(".button.select-row-view-sorting", true);
 showElements(".button.clear-cards", false);
 showElements(".grid-view-only", false);
+
+// Adapted from https://stackoverflow.com/questions/27368778/how-to-toggle-audio-play-pause-with-one-button-or-link
+
+// added audio so I can listen to something
+var audio1 = document.getElementById("audio1");
+var audio2 = document.getElementById("audio2");
+var audio3 = document.getElementById("audio3");
+var audio4 = document.getElementById("audio4");
+
+let currentAudio = 0
+
+function playMusic() {
+  pauseMusic();
+    if (currentAudio > -1 && currentAudio < 4){
+      ++currentAudio;
+  } else {
+      currentAudio = 1;
+  }
+  switch(currentAudio) {
+      case 1:
+        audio1.play();
+        break;
+    case 2:
+        audio2.play();
+        break;
+    case 3: 
+        audio3.play();
+        break;
+    case 4: 
+        audio4.play();
+        break;
+  }
+};
+
+function pauseMusic() {
+    audio1.pause();
+    audio2.pause();
+    audio3.pause();
+    audio4.pause();
+  };

@@ -80,6 +80,7 @@
 
   <body style="background: lightblue;">
 
+    
     <section>
 
       <div class="section-wrapper">
@@ -152,8 +153,20 @@
               />
             </button>
 
+            <button class="button save-cards grid-view-only">
+              <img class="save-icon" title="Save collected cards" src="images/site/save.png" />
+            </button>
+
+            <button class="button load-cards grid-view-only">
+              <img class="load-icon" title="Load collected cards" src="images/site/load.png" />
+            </button>
+
+            <button class="button export-cards grid-view-only">
+              <img class="export-icon" title="Export collected cards" src="images/site/export.png" />
+            </button>
+
             <button class="button clear-cards grid-view-only">
-              <img class="trash-icon" title="Delete all cards" src="images/site/trash.png" />
+              <img class="trash-icon" title="Clear collected cards" src="images/site/trash.png" />
             </button>
 
           </nav>
@@ -245,6 +258,12 @@
           <!-- <script>
               (adsbygoogle = window.adsbygoogle || []).push({});
           </script> -->
+          <a onclick="playMusic();">[play]</a> - 
+          <a onclick="pauseMusic();">[pause]</a>
+          <audio id="audio1" src="./music/10 World Map.mp3"></audio>
+          <audio id="audio2" src="./music/13 Lightning, Grass & Psychic Club.mp3"></audio>
+          <audio id="audio3" src="./music/14 Rock & Water Club.mp3"></audio>
+          <audio id="audio4" src="./music/15 Fighting, Science & Fire Club.mp3"></audio>
         </footer>
 
       </div>

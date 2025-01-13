@@ -13,7 +13,7 @@ function chooseSet() {
         currentSet = selectSetButtons[1].value;
         selectSetButtons[0].value = currentSet;
     }
-    openPack(currentSet);
+    //openPack(currentSet);
 };
 
 String.prototype.decapitalize = function () {
@@ -66,7 +66,7 @@ function openPack(setName) {
     const newPackArtUrls = noRepeatPackArtFrom(set)
     set.cardsToPull.forEach((cardType, index) => pullCard(cardType, cardsInPack, set, holoPulled, secretRarePulled, index));
     const newId = Symbol(); // Give each pack a unique ID so that even if its cards and set exactly match another, it will be considered unique for deletion purposes
-    pulledPacks.push({ id: newId, set: set, packArtUrls: newPackArtUrls, cards: [...cardsInPack]});
+    pulledPacks.push({ id: newId, packArtUrls: newPackArtUrls, cards: [...cardsInPack]});
     switch (uiViewType) {
         case "singlePackFlip":
             setDisplay("singlePackFlip");

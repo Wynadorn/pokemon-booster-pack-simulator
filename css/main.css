@@ -28,7 +28,7 @@ a:hover {
     display: none;
 }
 
-.trash-icon, .duplicate-icon {
+.trash-icon, .save-icon, .load-icon, .export-icon, .duplicate-icon {
     filter: brightness(2);
     position: relative;
     top: 2px;
@@ -437,6 +437,9 @@ div.card {
 .button.select-display,
 .button.select-row-view-sorting,
 .button.clear-cards,
+.button.save-cards,
+.button.export-cards,
+.button.load-cards,
 .button.no-duplicates {
     padding: 10px;
 }
