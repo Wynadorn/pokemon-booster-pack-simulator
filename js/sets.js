@@ -477,7 +477,7 @@ const sets = {
         logoUrl: 'https://images.pokemontcg.io/ecard3/logo.png',
         updatedAt: '08/14/2020 09:35:00'
     },
-    legendaryCollection:   {
+    legendaryCollection: {
         cards: legendaryCollectionCards,
         cardsAreSorted: false,
         chanceOfHolo: 1 / 3,
@@ -511,5 +511,32 @@ const sets = {
         symbolUrl: 'https://images.pokemontcg.io/base6/symbol.png',
         logoUrl: 'https://images.pokemontcg.io/base6/logo.png',
         updatedAt: '08/14/2020 09:35:00'
-      },
+    },
+    seriesOne: {
+        cards: animalCrossingCards,
+        cardsAreSorted: false,
+        chanceOfHolo: 1 / 6,
+        chanceOfSecretRare: 0,
+        holoReplaces5thCommon: true,
+        cardsToPull: ["Common", "Common", "Common", "Common", "Common", "Common", "Rare", "Common", "Common", "Uncommon"],
+        packArt: [
+            {
+                front: "./images/packart/seriesOneFront.jpg",
+                back: "./images/packart/seriesOneBack.jpg",
+            },
+            {
+                front: "./images/packart/seriesOneFront.jpg",
+                back: "./images/packart/seriesOneBack.jpg",
+            },
+        ],
+        code: "ACNL",
+        ptcgoCode: "ACNL",
+        name: "Animal Crossing Series",
+        series: "ACNL",
+        totalCards: 537,
+        releaseDate: "11/13/2015",
+        symbolUrl: "https://dodo.ac/np/images/8/82/Furniture_NH_Inv_Icon.png",
+        logoUrl: "https://dodo.ac/np/images/d/d2/Amiibo_Logo.svg",
+        updatedAt: "01/14/2025 20:10:00"
+    },
 }

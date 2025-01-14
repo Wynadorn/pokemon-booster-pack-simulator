@@ -9,7 +9,7 @@ function chooseSet() {
         currentSet = selectSetButtons[0].value;
         selectSetButtons[1].value = currentSet;
     }
-    else  {
+    else {
         currentSet = selectSetButtons[1].value;
         selectSetButtons[0].value = currentSet;
     }
@@ -40,14 +40,14 @@ function noRepeatPackArtFrom(set) {
     // If there's no packs, whatever we pick is good
     if (pulledPacks.length === 0) return packArt;
     // If what we picked matches the least recent pack (which is displayed first), pick another
-    if (packArt === pulledPacks[pulledPacks.length-1].packArtUrls) return noRepeatPackArtFrom(set);
+    if (packArt === pulledPacks[pulledPacks.length - 1].packArtUrls) return noRepeatPackArtFrom(set);
     // Whatever we found must be good
     return packArt;
 }
 
 function openPack(setName) {
     if (setName === "random") return chooseRandomSet();
-    
+
     // Guard check 2 (since I'm using recursion)
     // Sort cards into rarity tiers the first time the set is picked
     let set = sets[setName];
@@ -66,7 +66,7 @@ function openPack(setName) {
     const newPackArtUrls = noRepeatPackArtFrom(set)
     set.cardsToPull.forEach((cardType, index) => pullCard(cardType, cardsInPack, set, holoPulled, secretRarePulled, index));
     const newId = Symbol(); // Give each pack a unique ID so that even if its cards and set exactly match another, it will be considered unique for deletion purposes
-    pulledPacks.push({ id: newId, packArtUrls: newPackArtUrls, cards: [...cardsInPack]});
+    pulledPacks.push({ id: newId, packArtUrls: newPackArtUrls, cards: [...cardsInPack] });
     switch (uiViewType) {
         case "singlePackFlip":
             setDisplay("singlePackFlip");
@@ -83,11 +83,11 @@ function openPack(setName) {
 };
 
 function deletePack(packId) {
-    for (let i = 0; i < pulledPacks.length; i++){
-        if (pulledPacks[i].id === packId) 
+    for (let i = 0; i < pulledPacks.length; i++) {
+        if (pulledPacks[i].id === packId)
             pulledPacks.splice(i, 1);
     };
-    setDisplay("rowView"); 
+    setDisplay("rowView");
 };
 
 function chooseRandomSet() {
@@ -111,9 +111,9 @@ function pullCard(cardType, pack, set, holoPulled, secretRarePulled, index) {
     // See https://stackoverflow.com/questions/122102/what-is-the-most-efficient-way-to-deep-clone-an-object-in-javascript for more options
 
     // Special rule for e-series cards to replace the holo with the fifth common. This is kind of ugly, though. TODO: integrate with switch statement, take out if/else statement?
-    if (set.holoReplaces5thCommon && holoPulled && index === 4) 
+    if (set.holoReplaces5thCommon && holoPulled && index === 4)
         card = Object.assign({}, set.sortedCards.holoRares[randomIndex(set.sortedCards.holoRares.length)]);
-    else 
+    else
         switch (cardType) {
             case "Energy":
                 card = Object.assign({}, set.sortedCards.energy[randomIndex(set.sortedCards.energy.length)]);
@@ -121,7 +121,7 @@ function pullCard(cardType, pack, set, holoPulled, secretRarePulled, index) {
             case "Rare":
                 if (secretRarePulled) {
                     card = Object.assign({}, set.sortedCards.secretRares[randomIndex(set.sortedCards.secretRares.length)]);
-                } else if (holoPulled) {
+                } else if (holoPulled && !set.holoReplaces5thCommon) {
                     card = Object.assign({}, set.sortedCards.holoRares[randomIndex(set.sortedCards.holoRares.length)]);
                 } else {
                     card = Object.assign({}, set.sortedCards.rares[randomIndex(set.sortedCards.rares.length)]);
@@ -130,7 +130,7 @@ function pullCard(cardType, pack, set, holoPulled, secretRarePulled, index) {
             case "Regular Rare":
                 card = Object.assign({}, set.sortedCards.rares[randomIndex(set.sortedCards.rares.length)]);
                 break;
-            case "Reverse Holo": 
+            case "Reverse Holo":
                 const rarityTypes = ["Rare", "Uncommon", "Common"];
                 const randomRarity = rarityTypes[randomIndex(rarityTypes.length)];
 
@@ -144,7 +144,7 @@ function pullCard(cardType, pack, set, holoPulled, secretRarePulled, index) {
     // Using recursion again. TODO: refactor to keep a duplicate array of possible choices, popping off chosen ones
     // Only run duplicate check if it's not a reverse holo. Reverse holos CAN be duplicates
     if (isDuplicate(card, pack) && cardType !== "Reverse Holo") {
-            pullCard(cardType, pack, set, holoPulled, secretRarePulled, index);
+        pullCard(cardType, pack, set, holoPulled, secretRarePulled, index);
     }
     else {
         card.pullOrder = index; // For row view "PACK ORDER" sorting

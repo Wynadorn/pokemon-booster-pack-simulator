@@ -28238,3 +28238,9134 @@ const skyridgeCards = [
         "setCode": "ecard3"
     }
 ]
+const animalCrossingCards = [
+    {
+        "id": "ACNL-001",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/5/5d/001_Isabelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5d/001_Isabelle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "001",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-002",
+        "name": "Tom Nook",
+        "imageUrl": "https://dodo.ac/np/images/a/a7/002_Tom_Nook_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a7/002_Tom_Nook_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "002",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-003",
+        "name": "DJ KK",
+        "imageUrl": "https://dodo.ac/np/images/a/ad/003_DJ_KK_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ad/003_DJ_KK_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "003",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-004",
+        "name": "Sable",
+        "imageUrl": "https://dodo.ac/np/images/d/d9/004_Sable_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d9/004_Sable_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "004",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-005",
+        "name": "Kapp'n",
+        "imageUrl": "https://dodo.ac/np/images/a/a3/005_Kapp%27n_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a3/005_Kapp%27n_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "005",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-006",
+        "name": "Resetti",
+        "imageUrl": "https://dodo.ac/np/images/b/bd/006_Resetti_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bd/006_Resetti_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "006",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-007",
+        "name": "Joan",
+        "imageUrl": "https://dodo.ac/np/images/c/c3/007_Joan_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c3/007_Joan_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "007",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-008",
+        "name": "Timmy",
+        "imageUrl": "https://dodo.ac/np/images/2/25/008_Timmy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/25/008_Timmy_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "008",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-009",
+        "name": "Digby",
+        "imageUrl": "https://dodo.ac/np/images/5/57/009_Digby_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/57/009_Digby_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "009",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-010",
+        "name": "Pascal",
+        "imageUrl": "https://dodo.ac/np/images/3/3e/010_Pascal_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3e/010_Pascal_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "010",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-011",
+        "name": "Harriet",
+        "imageUrl": "https://dodo.ac/np/images/a/a5/011_Harriet_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a5/011_Harriet_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "011",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-012",
+        "name": "Redd",
+        "imageUrl": "https://dodo.ac/np/images/a/a0/012_Redd_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a0/012_Redd_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "012",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-013",
+        "name": "Saharah",
+        "imageUrl": "https://dodo.ac/np/images/8/8c/013_Saharah_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8c/013_Saharah_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "013",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-014",
+        "name": "Luna",
+        "imageUrl": "https://dodo.ac/np/images/d/d7/014_Luna_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d7/014_Luna_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "014",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-015",
+        "name": "Tortimer",
+        "imageUrl": "https://dodo.ac/np/images/d/dd/015_Tortimer_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/dd/015_Tortimer_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "015",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-016",
+        "name": "Lyle",
+        "imageUrl": "https://dodo.ac/np/images/9/9a/016_Lyle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9a/016_Lyle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "016",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-017",
+        "name": "Lottie",
+        "imageUrl": "https://dodo.ac/np/images/8/87/017_Lottie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/87/017_Lottie_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "017",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-018",
+        "name": "Bob",
+        "imageUrl": "https://dodo.ac/np/images/d/d2/018_Bob_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d2/018_Bob_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "018",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-019",
+        "name": "Fauna",
+        "imageUrl": "https://dodo.ac/np/images/1/18/019_Fauna_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/18/019_Fauna_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "019",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-020",
+        "name": "Curt",
+        "imageUrl": "https://dodo.ac/np/images/3/33/020_Curt_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/33/020_Curt_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "020",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-021",
+        "name": "Portia",
+        "imageUrl": "https://dodo.ac/np/images/8/85/021_Portia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/85/021_Portia_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "021",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-022",
+        "name": "Leonardo",
+        "imageUrl": "https://dodo.ac/np/images/c/c4/022_Leonardo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c4/022_Leonardo_amiibo_card_NA.png",
+        "types": [
+            "Tiger"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "022",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-023",
+        "name": "Cheri",
+        "imageUrl": "https://dodo.ac/np/images/0/04/023_Cheri_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/04/023_Cheri_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "023",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-024",
+        "name": "Kyle",
+        "imageUrl": "https://dodo.ac/np/images/f/fa/024_Kyle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/fa/024_Kyle_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "024",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-025",
+        "name": "Al",
+        "imageUrl": "https://dodo.ac/np/images/e/e5/025_Al_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e5/025_Al_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "025",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-026",
+        "name": "Renée",
+        "imageUrl": "https://dodo.ac/np/images/9/99/026_Ren%C3%A9e_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/99/026_Ren%C3%A9e_amiibo_card_NA.png",
+        "types": [
+            "Rhino"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "026",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-027",
+        "name": "Lopez",
+        "imageUrl": "https://dodo.ac/np/images/3/36/027_Lopez_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/36/027_Lopez_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "027",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-028",
+        "name": "Jambette",
+        "imageUrl": "https://dodo.ac/np/images/e/ec/028_Jambette_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ec/028_Jambette_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "028",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-029",
+        "name": "Rasher",
+        "imageUrl": "https://dodo.ac/np/images/c/cf/029_Rasher_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cf/029_Rasher_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "029",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-030",
+        "name": "Tiffany",
+        "imageUrl": "https://dodo.ac/np/images/8/88/030_Tiffany_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/88/030_Tiffany_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "030",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-031",
+        "name": "Sheldon",
+        "imageUrl": "https://dodo.ac/np/images/4/49/031_Sheldon_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/49/031_Sheldon_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "031",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-032",
+        "name": "Bluebear",
+        "imageUrl": "https://dodo.ac/np/images/0/0b/032_Bluebear_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0b/032_Bluebear_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "032",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-033",
+        "name": "Bill",
+        "imageUrl": "https://dodo.ac/np/images/0/09/033_Bill_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/09/033_Bill_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "033",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-034",
+        "name": "Kiki",
+        "imageUrl": "https://dodo.ac/np/images/9/95/034_Kiki_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/95/034_Kiki_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "034",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-035",
+        "name": "Deli",
+        "imageUrl": "https://dodo.ac/np/images/1/11/035_Deli_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/11/035_Deli_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "035",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-036",
+        "name": "Alli",
+        "imageUrl": "https://dodo.ac/np/images/7/71/036_Alli_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/71/036_Alli_amiibo_card_NA.png",
+        "types": [
+            "Alligator"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "036",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-037",
+        "name": "Kabuki",
+        "imageUrl": "https://dodo.ac/np/images/4/40/037_Kabuki_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/40/037_Kabuki_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "037",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-038",
+        "name": "Patty",
+        "imageUrl": "https://dodo.ac/np/images/4/4b/038_Patty_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4b/038_Patty_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "038",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-039",
+        "name": "Jitters",
+        "imageUrl": "https://dodo.ac/np/images/b/bc/039_Jitters_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bc/039_Jitters_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "039",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-040",
+        "name": "Gigi",
+        "imageUrl": "https://dodo.ac/np/images/6/68/040_Gigi_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/68/040_Gigi_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "040",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-041",
+        "name": "Quillson",
+        "imageUrl": "https://dodo.ac/np/images/6/6d/041_Quillson_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/6d/041_Quillson_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "041",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-042",
+        "name": "Marcie",
+        "imageUrl": "https://dodo.ac/np/images/d/da/042_Marcie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/da/042_Marcie_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "042",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-043",
+        "name": "Puck",
+        "imageUrl": "https://dodo.ac/np/images/6/62/043_Puck_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/62/043_Puck_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "043",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-044",
+        "name": "Shari",
+        "imageUrl": "https://dodo.ac/np/images/b/bd/044_Shari_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bd/044_Shari_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "044",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-045",
+        "name": "Octavian",
+        "imageUrl": "https://dodo.ac/np/images/1/18/045_Octavian_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/18/045_Octavian_amiibo_card_NA.png",
+        "types": [
+            "Octopus"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "045",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-046",
+        "name": "Winnie",
+        "imageUrl": "https://dodo.ac/np/images/0/01/046_Winnie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/01/046_Winnie_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "046",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-047",
+        "name": "Knox",
+        "imageUrl": "https://dodo.ac/np/images/a/a2/047_Knox_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a2/047_Knox_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "047",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-048",
+        "name": "Sterling",
+        "imageUrl": "https://dodo.ac/np/images/e/ef/048_Sterling_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ef/048_Sterling_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "048",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-049",
+        "name": "Bonbon",
+        "imageUrl": "https://dodo.ac/np/images/9/92/049_Bonbon_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/92/049_Bonbon_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "049",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-050",
+        "name": "Punchy",
+        "imageUrl": "https://dodo.ac/np/images/f/f3/050_Punchy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f3/050_Punchy_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "050",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-051",
+        "name": "Opal",
+        "imageUrl": "https://dodo.ac/np/images/7/7c/051_Opal_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7c/051_Opal_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "051",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-052",
+        "name": "Poppy",
+        "imageUrl": "https://dodo.ac/np/images/5/51/052_Poppy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/51/052_Poppy_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "052",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-053",
+        "name": "Limberg",
+        "imageUrl": "https://dodo.ac/np/images/1/1d/053_Limberg_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1d/053_Limberg_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "053",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-054",
+        "name": "Deena",
+        "imageUrl": "https://dodo.ac/np/images/c/c3/054_Deena_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c3/054_Deena_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "054",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-055",
+        "name": "Snake",
+        "imageUrl": "https://dodo.ac/np/images/b/b9/055_Snake_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b9/055_Snake_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "055",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-056",
+        "name": "Bangle",
+        "imageUrl": "https://dodo.ac/np/images/5/57/056_Bangle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/57/056_Bangle_amiibo_card_NA.png",
+        "types": [
+            "Tiger"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "056",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-057",
+        "name": "Phil",
+        "imageUrl": "https://dodo.ac/np/images/1/1b/057_Phil_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1b/057_Phil_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "057",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-058",
+        "name": "Monique",
+        "imageUrl": "https://dodo.ac/np/images/1/19/058_Monique_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/19/058_Monique_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "058",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-059",
+        "name": "Nate",
+        "imageUrl": "https://dodo.ac/np/images/b/b9/059_Nate_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b9/059_Nate_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "059",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-060",
+        "name": "Samson",
+        "imageUrl": "https://dodo.ac/np/images/3/32/060_Samson_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/32/060_Samson_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "060",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-061",
+        "name": "Tutu",
+        "imageUrl": "https://dodo.ac/np/images/9/99/061_Tutu_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/99/061_Tutu_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "061",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-062",
+        "name": "T-Bone",
+        "imageUrl": "https://dodo.ac/np/images/5/5d/062_T-Bone_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5d/062_T-Bone_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "062",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-063",
+        "name": "Mint",
+        "imageUrl": "https://dodo.ac/np/images/0/0a/063_Mint_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0a/063_Mint_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "063",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-064",
+        "name": "Pudge",
+        "imageUrl": "https://dodo.ac/np/images/e/ea/064_Pudge_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ea/064_Pudge_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "064",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-065",
+        "name": "Midge",
+        "imageUrl": "https://dodo.ac/np/images/3/3c/065_Midge_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3c/065_Midge_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "065",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-066",
+        "name": "Gruff",
+        "imageUrl": "https://dodo.ac/np/images/0/01/066_Gruff_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/01/066_Gruff_amiibo_card_NA.png",
+        "types": [
+            "Goat"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "066",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-067",
+        "name": "Flurry",
+        "imageUrl": "https://dodo.ac/np/images/9/90/067_Flurry_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/90/067_Flurry_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "067",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-068",
+        "name": "Clyde",
+        "imageUrl": "https://dodo.ac/np/images/6/6c/068_Clyde_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/6c/068_Clyde_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "068",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-069",
+        "name": "Bella",
+        "imageUrl": "https://dodo.ac/np/images/4/47/069_Bella_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/47/069_Bella_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "069",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-070",
+        "name": "Biff",
+        "imageUrl": "https://dodo.ac/np/images/2/2c/070_Biff_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2c/070_Biff_amiibo_card_NA.png",
+        "types": [
+            "Hippo"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "070",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-071",
+        "name": "Yuka",
+        "imageUrl": "https://dodo.ac/np/images/8/8b/071_Yuka_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8b/071_Yuka_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "071",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-072",
+        "name": "Lionel",
+        "imageUrl": "https://dodo.ac/np/images/e/e3/072_Lionel_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e3/072_Lionel_amiibo_card_NA.png",
+        "types": [
+            "Lion"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "072",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-073",
+        "name": "Flo",
+        "imageUrl": "https://dodo.ac/np/images/f/fb/073_Flo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/fb/073_Flo_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "073",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-074",
+        "name": "Cobb",
+        "imageUrl": "https://dodo.ac/np/images/0/01/074_Cobb_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/01/074_Cobb_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "074",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-075",
+        "name": "Amelia",
+        "imageUrl": "https://dodo.ac/np/images/4/4a/075_Amelia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4a/075_Amelia_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "075",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-076",
+        "name": "Jeremiah",
+        "imageUrl": "https://dodo.ac/np/images/1/1d/076_Jeremiah_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1d/076_Jeremiah_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "076",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-077",
+        "name": "Cherry",
+        "imageUrl": "https://dodo.ac/np/images/3/36/077_Cherry_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/36/077_Cherry_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "077",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-078",
+        "name": "Roscoe",
+        "imageUrl": "https://dodo.ac/np/images/6/63/078_Roscoe_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/63/078_Roscoe_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "078",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-079",
+        "name": "Truffles",
+        "imageUrl": "https://dodo.ac/np/images/8/81/079_Truffles_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/81/079_Truffles_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "079",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-080",
+        "name": "Eugene",
+        "imageUrl": "https://dodo.ac/np/images/2/2b/080_Eugene_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2b/080_Eugene_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "080",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-081",
+        "name": "Eunice",
+        "imageUrl": "https://dodo.ac/np/images/4/45/081_Eunice_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/45/081_Eunice_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "081",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-082",
+        "name": "Goose",
+        "imageUrl": "https://dodo.ac/np/images/7/7a/082_Goose_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7a/082_Goose_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "082",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-083",
+        "name": "Annalisa",
+        "imageUrl": "https://dodo.ac/np/images/f/f3/083_Annalisa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f3/083_Annalisa_amiibo_card_NA.png",
+        "types": [
+            "Anteater"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "083",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-084",
+        "name": "Benjamin",
+        "imageUrl": "https://dodo.ac/np/images/5/5b/084_Benjamin_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5b/084_Benjamin_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "084",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-085",
+        "name": "Pancetti",
+        "imageUrl": "https://dodo.ac/np/images/2/2e/085_Pancetti_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2e/085_Pancetti_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "085",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-086",
+        "name": "Chief",
+        "imageUrl": "https://dodo.ac/np/images/3/36/086_Chief_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/36/086_Chief_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "086",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-087",
+        "name": "Bunnie",
+        "imageUrl": "https://dodo.ac/np/images/6/64/087_Bunnie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/64/087_Bunnie_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "087",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-088",
+        "name": "Clay",
+        "imageUrl": "https://dodo.ac/np/images/6/64/088_Clay_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/64/088_Clay_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "088",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-089",
+        "name": "Diana",
+        "imageUrl": "https://dodo.ac/np/images/b/bb/089_Diana_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bb/089_Diana_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "089",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-090",
+        "name": "Axel",
+        "imageUrl": "https://dodo.ac/np/images/a/a6/090_Axel_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a6/090_Axel_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "090",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-091",
+        "name": "Muffy",
+        "imageUrl": "https://dodo.ac/np/images/e/ec/091_Muffy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ec/091_Muffy_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "091",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-092",
+        "name": "Henry",
+        "imageUrl": "https://dodo.ac/np/images/d/d3/092_Henry_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d3/092_Henry_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "092",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-093",
+        "name": "Bertha",
+        "imageUrl": "https://dodo.ac/np/images/1/1f/093_Bertha_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1f/093_Bertha_amiibo_card_NA.png",
+        "types": [
+            "Hippo"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "093",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-094",
+        "name": "Cyrano",
+        "imageUrl": "https://dodo.ac/np/images/0/0f/094_Cyrano_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0f/094_Cyrano_amiibo_card_NA.png",
+        "types": [
+            "Anteater"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "094",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-095",
+        "name": "Peanut",
+        "imageUrl": "https://dodo.ac/np/images/3/3d/095_Peanut_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3d/095_Peanut_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "095",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-096",
+        "name": "Cole",
+        "imageUrl": "https://dodo.ac/np/images/c/cb/096_Cole_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cb/096_Cole_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "096",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-097",
+        "name": "Willow",
+        "imageUrl": "https://dodo.ac/np/images/e/ed/097_Willow_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ed/097_Willow_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "097",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-098",
+        "name": "Roald",
+        "imageUrl": "https://dodo.ac/np/images/3/32/098_Roald_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/32/098_Roald_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "098",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-099",
+        "name": "Molly",
+        "imageUrl": "https://dodo.ac/np/images/4/4e/099_Molly_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4e/099_Molly_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "099",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-100",
+        "name": "Walker",
+        "imageUrl": "https://dodo.ac/np/images/c/c9/100_Walker_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c9/100_Walker_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "100",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-101",
+        "name": "K.K.",
+        "imageUrl": "https://dodo.ac/np/images/5/59/101_K.K._amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/59/101_K.K._amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "101",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-102",
+        "name": "Reese",
+        "imageUrl": "https://dodo.ac/np/images/5/54/102_Reese_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/54/102_Reese_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "102",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-103",
+        "name": "Kicks",
+        "imageUrl": "https://dodo.ac/np/images/4/49/103_Kicks_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/49/103_Kicks_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "103",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-104",
+        "name": "Labelle",
+        "imageUrl": "https://dodo.ac/np/images/3/3d/104_Labelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3d/104_Labelle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "104",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-105",
+        "name": "Copper",
+        "imageUrl": "https://dodo.ac/np/images/a/a8/105_Copper_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a8/105_Copper_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "105",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-106",
+        "name": "Booker",
+        "imageUrl": "https://dodo.ac/np/images/9/92/106_Booker_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/92/106_Booker_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "106",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-107",
+        "name": "Katie",
+        "imageUrl": "https://dodo.ac/np/images/6/66/107_Katie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/66/107_Katie_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "107",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-108",
+        "name": "Tommy",
+        "imageUrl": "https://dodo.ac/np/images/a/a0/108_Tommy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a0/108_Tommy_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "108",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-109",
+        "name": "Porter",
+        "imageUrl": "https://dodo.ac/np/images/e/e0/109_Porter_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e0/109_Porter_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "109",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-110",
+        "name": "Leila",
+        "imageUrl": "https://dodo.ac/np/images/5/54/110_Leila_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/54/110_Leila_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "110",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-111",
+        "name": "Shrunk",
+        "imageUrl": "https://dodo.ac/np/images/1/16/111_Shrunk_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/16/111_Shrunk_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "111",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-112",
+        "name": "Don",
+        "imageUrl": "https://dodo.ac/np/images/b/b0/112_Don_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b0/112_Don_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "112",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-113",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/8/8f/113_Isabelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8f/113_Isabelle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "113",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-114",
+        "name": "Blanca",
+        "imageUrl": "https://dodo.ac/np/images/e/e4/114_Blanca_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e4/114_Blanca_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "114",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-115",
+        "name": "Nat",
+        "imageUrl": "https://dodo.ac/np/images/a/ac/115_Nat_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ac/115_Nat_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "115",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-116",
+        "name": "Chip",
+        "imageUrl": "https://dodo.ac/np/images/0/01/116_Chip_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/01/116_Chip_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "116",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-117",
+        "name": "Jack",
+        "imageUrl": "https://dodo.ac/np/images/0/0a/117_Jack_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0a/117_Jack_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "117",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-118",
+        "name": "Poncho",
+        "imageUrl": "https://dodo.ac/np/images/8/85/118_Poncho_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/85/118_Poncho_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "118",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-119",
+        "name": "Felicity",
+        "imageUrl": "https://dodo.ac/np/images/e/e9/119_Felicity_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e9/119_Felicity_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "119",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-120",
+        "name": "Ozzie",
+        "imageUrl": "https://dodo.ac/np/images/0/0e/120_Ozzie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0e/120_Ozzie_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "120",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-121",
+        "name": "Tia",
+        "imageUrl": "https://dodo.ac/np/images/a/a0/121_Tia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a0/121_Tia_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "121",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-122",
+        "name": "Lucha",
+        "imageUrl": "https://dodo.ac/np/images/f/f6/122_Lucha_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f6/122_Lucha_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "122",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-123",
+        "name": "Fuchsia",
+        "imageUrl": "https://dodo.ac/np/images/1/1a/123_Fuchsia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1a/123_Fuchsia_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "123",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-124",
+        "name": "Harry",
+        "imageUrl": "https://dodo.ac/np/images/6/63/124_Harry_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/63/124_Harry_amiibo_card_NA.png",
+        "types": [
+            "Hippo"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "124",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-125",
+        "name": "Gwen",
+        "imageUrl": "https://dodo.ac/np/images/0/00/125_Gwen_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/00/125_Gwen_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "125",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-126",
+        "name": "Coach",
+        "imageUrl": "https://dodo.ac/np/images/9/9c/126_Coach_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9c/126_Coach_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "126",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-127",
+        "name": "Kitt",
+        "imageUrl": "https://dodo.ac/np/images/5/5d/127_Kitt_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5d/127_Kitt_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "127",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-128",
+        "name": "Tom",
+        "imageUrl": "https://dodo.ac/np/images/b/b2/128_Tom_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b2/128_Tom_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "128",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-129",
+        "name": "Tipper",
+        "imageUrl": "https://dodo.ac/np/images/0/0a/129_Tipper_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0a/129_Tipper_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "129",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-130",
+        "name": "Prince",
+        "imageUrl": "https://dodo.ac/np/images/2/2f/130_Prince_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2f/130_Prince_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "130",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-131",
+        "name": "Pate",
+        "imageUrl": "https://dodo.ac/np/images/8/83/131_Pate_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/83/131_Pate_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "131",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-132",
+        "name": "Vladimir",
+        "imageUrl": "https://dodo.ac/np/images/7/7a/132_Vladimir_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7a/132_Vladimir_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "132",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-133",
+        "name": "Savannah",
+        "imageUrl": "https://dodo.ac/np/images/5/5b/133_Savannah_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5b/133_Savannah_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "133",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-134",
+        "name": "Kidd",
+        "imageUrl": "https://dodo.ac/np/images/1/11/134_Kidd_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/11/134_Kidd_amiibo_card_NA.png",
+        "types": [
+            "Goat"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "134",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-135",
+        "name": "Phoebe",
+        "imageUrl": "https://dodo.ac/np/images/9/9f/135_Phoebe_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9f/135_Phoebe_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "135",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-136",
+        "name": "Egbert",
+        "imageUrl": "https://dodo.ac/np/images/c/c2/136_Egbert_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c2/136_Egbert_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "136",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-137",
+        "name": "Cookie",
+        "imageUrl": "https://dodo.ac/np/images/5/54/137_Cookie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/54/137_Cookie_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "137",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-138",
+        "name": "Sly",
+        "imageUrl": "https://dodo.ac/np/images/8/87/138_Sly_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/87/138_Sly_amiibo_card_NA.png",
+        "types": [
+            "Alligator"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "138",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-139",
+        "name": "Blaire",
+        "imageUrl": "https://dodo.ac/np/images/5/59/139_Blaire_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/59/139_Blaire_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "139",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-140",
+        "name": "Avery",
+        "imageUrl": "https://dodo.ac/np/images/5/5c/140_Avery_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5c/140_Avery_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "140",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-141",
+        "name": "Nana",
+        "imageUrl": "https://dodo.ac/np/images/d/da/141_Nana_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/da/141_Nana_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "141",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-142",
+        "name": "Peck",
+        "imageUrl": "https://dodo.ac/np/images/b/b5/142_Peck_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b5/142_Peck_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "142",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-143",
+        "name": "Olivia",
+        "imageUrl": "https://dodo.ac/np/images/b/bc/143_Olivia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bc/143_Olivia_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "143",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-144",
+        "name": "Cesar",
+        "imageUrl": "https://dodo.ac/np/images/b/b0/144_Cesar_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b0/144_Cesar_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "144",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-145",
+        "name": "Carmen",
+        "imageUrl": "https://dodo.ac/np/images/a/a9/145_Carmen_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a9/145_Carmen_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "145",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-146",
+        "name": "Rodney",
+        "imageUrl": "https://dodo.ac/np/images/2/2b/146_Rodney_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2b/146_Rodney_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "146",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-147",
+        "name": "Scoot",
+        "imageUrl": "https://dodo.ac/np/images/f/fa/147_Scoot_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/fa/147_Scoot_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "147",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-148",
+        "name": "Whitney",
+        "imageUrl": "https://dodo.ac/np/images/2/22/148_Whitney_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/22/148_Whitney_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "148",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-149",
+        "name": "Broccolo",
+        "imageUrl": "https://dodo.ac/np/images/5/57/149_Broccolo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/57/149_Broccolo_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "149",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-150",
+        "name": "Coco",
+        "imageUrl": "https://dodo.ac/np/images/d/d8/150_Coco_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d8/150_Coco_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "150",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-151",
+        "name": "Groucho",
+        "imageUrl": "https://dodo.ac/np/images/b/bd/151_Groucho_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bd/151_Groucho_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "151",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-152",
+        "name": "Wendy",
+        "imageUrl": "https://dodo.ac/np/images/9/99/152_Wendy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/99/152_Wendy_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "152",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-153",
+        "name": "Alfonso",
+        "imageUrl": "https://dodo.ac/np/images/e/e1/153_Alfonso_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e1/153_Alfonso_amiibo_card_NA.png",
+        "types": [
+            "Alligator"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "153",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-154",
+        "name": "Rhonda",
+        "imageUrl": "https://dodo.ac/np/images/0/0b/154_Rhonda_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0b/154_Rhonda_amiibo_card_NA.png",
+        "types": [
+            "Rhino"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "154",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-155",
+        "name": "Butch",
+        "imageUrl": "https://dodo.ac/np/images/d/df/155_Butch_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/df/155_Butch_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "155",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-156",
+        "name": "Gabi",
+        "imageUrl": "https://dodo.ac/np/images/c/ce/156_Gabi_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/ce/156_Gabi_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "156",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-157",
+        "name": "Moose",
+        "imageUrl": "https://dodo.ac/np/images/9/93/157_Moose_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/93/157_Moose_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "157",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-158",
+        "name": "Timbra",
+        "imageUrl": "https://dodo.ac/np/images/d/d1/158_Timbra_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d1/158_Timbra_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "158",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-159",
+        "name": "Zell",
+        "imageUrl": "https://dodo.ac/np/images/3/3d/159_Zell_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3d/159_Zell_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "159",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-160",
+        "name": "Pekoe",
+        "imageUrl": "https://dodo.ac/np/images/3/35/160_Pekoe_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/35/160_Pekoe_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "160",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-161",
+        "name": "Teddy",
+        "imageUrl": "https://dodo.ac/np/images/6/6b/161_Teddy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/6b/161_Teddy_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "161",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-162",
+        "name": "Mathilda",
+        "imageUrl": "https://dodo.ac/np/images/8/89/162_Mathilda_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/89/162_Mathilda_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "162",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-163",
+        "name": "Ed",
+        "imageUrl": "https://dodo.ac/np/images/1/1c/163_Ed_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1c/163_Ed_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "163",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-164",
+        "name": "Bianca",
+        "imageUrl": "https://dodo.ac/np/images/a/ab/164_Bianca_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ab/164_Bianca_amiibo_card_NA.png",
+        "types": [
+            "Tiger"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "164",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-165",
+        "name": "Filbert",
+        "imageUrl": "https://dodo.ac/np/images/7/71/165_Filbert_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/71/165_Filbert_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "165",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-166",
+        "name": "Kitty",
+        "imageUrl": "https://dodo.ac/np/images/1/1d/166_Kitty_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1d/166_Kitty_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "166",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-167",
+        "name": "Beau",
+        "imageUrl": "https://dodo.ac/np/images/a/a6/167_Beau_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a6/167_Beau_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "167",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-168",
+        "name": "Nan",
+        "imageUrl": "https://dodo.ac/np/images/1/1c/168_Nan_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1c/168_Nan_amiibo_card_NA.png",
+        "types": [
+            "Goat"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "168",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-169",
+        "name": "Bud",
+        "imageUrl": "https://dodo.ac/np/images/0/0e/169_Bud_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0e/169_Bud_amiibo_card_NA.png",
+        "types": [
+            "Lion"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "169",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-170",
+        "name": "Ruby",
+        "imageUrl": "https://dodo.ac/np/images/0/07/170_Ruby_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/07/170_Ruby_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "170",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-171",
+        "name": "Benedict",
+        "imageUrl": "https://dodo.ac/np/images/d/db/171_Benedict_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/db/171_Benedict_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "171",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-172",
+        "name": "Agnes",
+        "imageUrl": "https://dodo.ac/np/images/7/70/172_Agnes_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/70/172_Agnes_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "172",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-173",
+        "name": "Julian",
+        "imageUrl": "https://dodo.ac/np/images/e/e9/173_Julian_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e9/173_Julian_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "173",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-174",
+        "name": "Bettina",
+        "imageUrl": "https://dodo.ac/np/images/9/9d/174_Bettina_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9d/174_Bettina_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "174",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-175",
+        "name": "Jay",
+        "imageUrl": "https://dodo.ac/np/images/e/e7/175_Jay_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e7/175_Jay_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "175",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-176",
+        "name": "Sprinkle",
+        "imageUrl": "https://dodo.ac/np/images/4/48/176_Sprinkle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/48/176_Sprinkle_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "176",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-177",
+        "name": "Flip",
+        "imageUrl": "https://dodo.ac/np/images/7/7e/177_Flip_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7e/177_Flip_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "177",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-178",
+        "name": "Hugh",
+        "imageUrl": "https://dodo.ac/np/images/6/66/178_Hugh_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/66/178_Hugh_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "178",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-179",
+        "name": "Hopper",
+        "imageUrl": "https://dodo.ac/np/images/9/92/179_Hopper_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/92/179_Hopper_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "179",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-180",
+        "name": "Pecan",
+        "imageUrl": "https://dodo.ac/np/images/7/77/180_Pecan_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/77/180_Pecan_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "180",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-181",
+        "name": "Drake",
+        "imageUrl": "https://dodo.ac/np/images/7/74/181_Drake_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/74/181_Drake_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "181",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-182",
+        "name": "Alice",
+        "imageUrl": "https://dodo.ac/np/images/1/1f/182_Alice_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1f/182_Alice_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "182",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-183",
+        "name": "Camofrog",
+        "imageUrl": "https://dodo.ac/np/images/c/cf/183_Camofrog_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cf/183_Camofrog_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "183",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-184",
+        "name": "Anicotti",
+        "imageUrl": "https://dodo.ac/np/images/1/11/184_Anicotti_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/11/184_Anicotti_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "184",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-185",
+        "name": "Chops",
+        "imageUrl": "https://dodo.ac/np/images/9/95/185_Chops_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/95/185_Chops_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "185",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-186",
+        "name": "Charlise",
+        "imageUrl": "https://dodo.ac/np/images/f/f9/186_Charlise_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f9/186_Charlise_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "186",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-187",
+        "name": "Vic",
+        "imageUrl": "https://dodo.ac/np/images/0/08/187_Vic_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/08/187_Vic_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "187",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-188",
+        "name": "Ankha",
+        "imageUrl": "https://dodo.ac/np/images/c/ca/188_Ankha_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/ca/188_Ankha_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "188",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-189",
+        "name": "Drift",
+        "imageUrl": "https://dodo.ac/np/images/5/58/189_Drift_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/58/189_Drift_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "189",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-190",
+        "name": "Vesta",
+        "imageUrl": "https://dodo.ac/np/images/3/37/190_Vesta_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/37/190_Vesta_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "190",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-191",
+        "name": "Marcel",
+        "imageUrl": "https://dodo.ac/np/images/1/1f/191_Marcel_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1f/191_Marcel_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "191",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-192",
+        "name": "Pango",
+        "imageUrl": "https://dodo.ac/np/images/4/40/192_Pango_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/40/192_Pango_amiibo_card_NA.png",
+        "types": [
+            "Anteater"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "192",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-193",
+        "name": "Keaton",
+        "imageUrl": "https://dodo.ac/np/images/b/bc/193_Keaton_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bc/193_Keaton_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "193",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-194",
+        "name": "Gladys",
+        "imageUrl": "https://dodo.ac/np/images/8/84/194_Gladys_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/84/194_Gladys_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "194",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-195",
+        "name": "Hamphrey",
+        "imageUrl": "https://dodo.ac/np/images/3/35/195_Hamphrey_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/35/195_Hamphrey_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "195",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-196",
+        "name": "Freya",
+        "imageUrl": "https://dodo.ac/np/images/a/a1/196_Freya_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a1/196_Freya_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "196",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-197",
+        "name": "Kid Cat",
+        "imageUrl": "https://dodo.ac/np/images/d/d6/197_Kid_Cat_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d6/197_Kid_Cat_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "197",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-198",
+        "name": "Agent S",
+        "imageUrl": "https://dodo.ac/np/images/7/7a/198_Agent_S_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7a/198_Agent_S_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "198",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-199",
+        "name": "Big Top",
+        "imageUrl": "https://dodo.ac/np/images/2/24/199_Big_Top_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/24/199_Big_Top_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "199",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-200",
+        "name": "Rocket",
+        "imageUrl": "https://dodo.ac/np/images/9/9f/200_Rocket_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9f/200_Rocket_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "200",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-201",
+        "name": "Rover",
+        "imageUrl": "https://dodo.ac/np/images/b/ba/201_Rover_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/ba/201_Rover_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "201",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-202",
+        "name": "Blathers",
+        "imageUrl": "https://dodo.ac/np/images/6/6a/202_Blathers_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/6a/202_Blathers_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "202",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-203",
+        "name": "Tom Nook",
+        "imageUrl": "https://dodo.ac/np/images/9/93/203_Tom_Nook_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/93/203_Tom_Nook_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "203",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-204",
+        "name": "Pelly",
+        "imageUrl": "https://dodo.ac/np/images/e/e5/204_Pelly_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e5/204_Pelly_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "204",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-205",
+        "name": "Phyllis",
+        "imageUrl": "https://dodo.ac/np/images/b/be/205_Phyllis_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/be/205_Phyllis_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "205",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-206",
+        "name": "Pete",
+        "imageUrl": "https://dodo.ac/np/images/6/6f/206_Pete_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/6f/206_Pete_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "206",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-207",
+        "name": "Mabel",
+        "imageUrl": "https://dodo.ac/np/images/0/00/207_Mabel_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/00/207_Mabel_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "207",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-208",
+        "name": "Leif",
+        "imageUrl": "https://dodo.ac/np/images/e/e2/208_Leif_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e2/208_Leif_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "208",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-209",
+        "name": "Wendell",
+        "imageUrl": "https://dodo.ac/np/images/4/43/209_Wendell_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/43/209_Wendell_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "209",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-210",
+        "name": "Cyrus",
+        "imageUrl": "https://dodo.ac/np/images/6/6e/210_Cyrus_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/6e/210_Cyrus_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "210",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-211",
+        "name": "Grams",
+        "imageUrl": "https://dodo.ac/np/images/a/a7/211_Grams_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a7/211_Grams_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "211",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-212",
+        "name": "Timmy",
+        "imageUrl": "https://dodo.ac/np/images/5/54/212_Timmy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/54/212_Timmy_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "212",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-213",
+        "name": "Digby",
+        "imageUrl": "https://dodo.ac/np/images/4/4c/213_Digby_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4c/213_Digby_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "213",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-214",
+        "name": "Don",
+        "imageUrl": "https://dodo.ac/np/images/1/18/214_Don_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/18/214_Don_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "214",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-215",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/9/96/215_Isabelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/96/215_Isabelle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "215",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-216",
+        "name": "Franklin",
+        "imageUrl": "https://dodo.ac/np/images/e/e6/216_Franklin_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e6/216_Franklin_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "216",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-217",
+        "name": "Jingle",
+        "imageUrl": "https://dodo.ac/np/images/7/73/217_Jingle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/73/217_Jingle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "217",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-218",
+        "name": "Lily",
+        "imageUrl": "https://dodo.ac/np/images/5/5b/218_Lily_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5b/218_Lily_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "218",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-219",
+        "name": "Anchovy",
+        "imageUrl": "https://dodo.ac/np/images/a/a6/219_Anchovy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a6/219_Anchovy_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "219",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-220",
+        "name": "Tabby",
+        "imageUrl": "https://dodo.ac/np/images/4/4b/220_Tabby_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4b/220_Tabby_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "220",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-221",
+        "name": "Kody",
+        "imageUrl": "https://dodo.ac/np/images/0/08/221_Kody_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/08/221_Kody_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "221",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-222",
+        "name": "Miranda",
+        "imageUrl": "https://dodo.ac/np/images/9/98/222_Miranda_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/98/222_Miranda_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "222",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-223",
+        "name": "Del",
+        "imageUrl": "https://dodo.ac/np/images/3/37/223_Del_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/37/223_Del_amiibo_card_NA.png",
+        "types": [
+            "Alligator"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "223",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-224",
+        "name": "Paula",
+        "imageUrl": "https://dodo.ac/np/images/2/2e/224_Paula_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2e/224_Paula_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "224",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-225",
+        "name": "Ken",
+        "imageUrl": "https://dodo.ac/np/images/2/25/225_Ken_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/25/225_Ken_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "225",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-226",
+        "name": "Mitzi",
+        "imageUrl": "https://dodo.ac/np/images/7/7c/226_Mitzi_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7c/226_Mitzi_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "226",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-227",
+        "name": "Rodeo",
+        "imageUrl": "https://dodo.ac/np/images/a/a8/227_Rodeo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a8/227_Rodeo_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "227",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-228",
+        "name": "Bubbles",
+        "imageUrl": "https://dodo.ac/np/images/7/78/228_Bubbles_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/78/228_Bubbles_amiibo_card_NA.png",
+        "types": [
+            "Hippo"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "228",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-229",
+        "name": "Cousteau",
+        "imageUrl": "https://dodo.ac/np/images/8/81/229_Cousteau_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/81/229_Cousteau_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "229",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-230",
+        "name": "Velma",
+        "imageUrl": "https://dodo.ac/np/images/6/6d/230_Velma_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/6d/230_Velma_amiibo_card_NA.png",
+        "types": [
+            "Goat"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "230",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-231",
+        "name": "Elvis",
+        "imageUrl": "https://dodo.ac/np/images/d/d6/231_Elvis_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d6/231_Elvis_amiibo_card_NA.png",
+        "types": [
+            "Lion"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "231",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-232",
+        "name": "Canberra",
+        "imageUrl": "https://dodo.ac/np/images/8/8b/232_Canberra_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8b/232_Canberra_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "232",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-233",
+        "name": "Colton",
+        "imageUrl": "https://dodo.ac/np/images/5/5b/233_Colton_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5b/233_Colton_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "233",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-234",
+        "name": "Marina",
+        "imageUrl": "https://dodo.ac/np/images/7/7b/234_Marina_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7b/234_Marina_amiibo_card_NA.png",
+        "types": [
+            "Octopus"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "234",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-235",
+        "name": "Spork",
+        "imageUrl": "https://dodo.ac/np/images/8/85/235_Spork_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/85/235_Spork_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "235",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-236",
+        "name": "Freckles",
+        "imageUrl": "https://dodo.ac/np/images/6/61/236_Freckles_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/61/236_Freckles_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "236",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-237",
+        "name": "Bam",
+        "imageUrl": "https://dodo.ac/np/images/c/cf/237_Bam_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cf/237_Bam_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "237",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-238",
+        "name": "Friga",
+        "imageUrl": "https://dodo.ac/np/images/8/8c/238_Friga_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8c/238_Friga_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "238",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-239",
+        "name": "Ricky",
+        "imageUrl": "https://dodo.ac/np/images/2/24/239_Ricky_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/24/239_Ricky_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "239",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-240",
+        "name": "Deirdre",
+        "imageUrl": "https://dodo.ac/np/images/7/74/240_Deirdre_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/74/240_Deirdre_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "240",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-241",
+        "name": "Hans",
+        "imageUrl": "https://dodo.ac/np/images/d/d5/241_Hans_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d5/241_Hans_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "241",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-242",
+        "name": "Chevre",
+        "imageUrl": "https://dodo.ac/np/images/5/55/242_Chevre_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/55/242_Chevre_amiibo_card_NA.png",
+        "types": [
+            "Goat"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "242",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-243",
+        "name": "Drago",
+        "imageUrl": "https://dodo.ac/np/images/4/4a/243_Drago_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4a/243_Drago_amiibo_card_NA.png",
+        "types": [
+            "Alligator"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "243",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-244",
+        "name": "Tangy",
+        "imageUrl": "https://dodo.ac/np/images/a/a6/244_Tangy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a6/244_Tangy_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "244",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-245",
+        "name": "Mac",
+        "imageUrl": "https://dodo.ac/np/images/e/ee/245_Mac_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ee/245_Mac_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "245",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-246",
+        "name": "Eloise",
+        "imageUrl": "https://dodo.ac/np/images/0/0b/246_Eloise_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0b/246_Eloise_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "246",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-247",
+        "name": "Wart Jr.",
+        "imageUrl": "https://dodo.ac/np/images/e/e7/247_Wart_Jr._amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e7/247_Wart_Jr._amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "247",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-248",
+        "name": "Hazel",
+        "imageUrl": "https://dodo.ac/np/images/1/10/248_Hazel_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/10/248_Hazel_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "248",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-249",
+        "name": "Beardo",
+        "imageUrl": "https://dodo.ac/np/images/0/0d/249_Beardo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0d/249_Beardo_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "249",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-250",
+        "name": "Ava",
+        "imageUrl": "https://dodo.ac/np/images/c/c3/250_Ava_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c3/250_Ava_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "250",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-251",
+        "name": "Chester",
+        "imageUrl": "https://dodo.ac/np/images/3/36/251_Chester_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/36/251_Chester_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "251",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-252",
+        "name": "Merry",
+        "imageUrl": "https://dodo.ac/np/images/0/07/252_Merry_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/07/252_Merry_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "252",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-253",
+        "name": "Genji",
+        "imageUrl": "https://dodo.ac/np/images/0/04/253_Genji_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/04/253_Genji_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "253",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-254",
+        "name": "Greta",
+        "imageUrl": "https://dodo.ac/np/images/8/87/254_Greta_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/87/254_Greta_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "254",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-255",
+        "name": "Wolfgang",
+        "imageUrl": "https://dodo.ac/np/images/3/3c/255_Wolfgang_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3c/255_Wolfgang_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "255",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-256",
+        "name": "Diva",
+        "imageUrl": "https://dodo.ac/np/images/e/e8/256_Diva_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e8/256_Diva_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "256",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-257",
+        "name": "Klaus",
+        "imageUrl": "https://dodo.ac/np/images/a/a3/257_Klaus_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a3/257_Klaus_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "257",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-258",
+        "name": "Daisy",
+        "imageUrl": "https://dodo.ac/np/images/0/05/258_Daisy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/05/258_Daisy_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "258",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-259",
+        "name": "Stinky",
+        "imageUrl": "https://dodo.ac/np/images/3/3f/259_Stinky_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3f/259_Stinky_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "259",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-260",
+        "name": "Tammi",
+        "imageUrl": "https://dodo.ac/np/images/b/b1/260_Tammi_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b1/260_Tammi_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "260",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-261",
+        "name": "Tucker",
+        "imageUrl": "https://dodo.ac/np/images/5/50/261_Tucker_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/50/261_Tucker_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "261",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-262",
+        "name": "Blanche",
+        "imageUrl": "https://dodo.ac/np/images/c/c3/262_Blanche_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c3/262_Blanche_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "262",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-263",
+        "name": "Gaston",
+        "imageUrl": "https://dodo.ac/np/images/b/b3/263_Gaston_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b3/263_Gaston_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "263",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-264",
+        "name": "Marshal",
+        "imageUrl": "https://dodo.ac/np/images/6/63/264_Marshal_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/63/264_Marshal_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "264",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-265",
+        "name": "Gala",
+        "imageUrl": "https://dodo.ac/np/images/2/27/265_Gala_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/27/265_Gala_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "265",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-266",
+        "name": "Joey",
+        "imageUrl": "https://dodo.ac/np/images/8/8b/266_Joey_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8b/266_Joey_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "266",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-267",
+        "name": "Pippy",
+        "imageUrl": "https://dodo.ac/np/images/e/ed/267_Pippy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ed/267_Pippy_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "267",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-268",
+        "name": "Buck",
+        "imageUrl": "https://dodo.ac/np/images/6/60/268_Buck_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/60/268_Buck_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "268",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-269",
+        "name": "Bree",
+        "imageUrl": "https://dodo.ac/np/images/9/9b/269_Bree_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9b/269_Bree_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "269",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-270",
+        "name": "Rooney",
+        "imageUrl": "https://dodo.ac/np/images/b/bc/270_Rooney_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bc/270_Rooney_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "270",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-271",
+        "name": "Curlos",
+        "imageUrl": "https://dodo.ac/np/images/d/d8/271_Curlos_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d8/271_Curlos_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "271",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-272",
+        "name": "Skye",
+        "imageUrl": "https://dodo.ac/np/images/c/c9/272_Skye_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c9/272_Skye_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "272",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-273",
+        "name": "Moe",
+        "imageUrl": "https://dodo.ac/np/images/9/95/273_Moe_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/95/273_Moe_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "273",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-274",
+        "name": "Flora",
+        "imageUrl": "https://dodo.ac/np/images/1/18/274_Flora_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/18/274_Flora_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "274",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-275",
+        "name": "Hamlet",
+        "imageUrl": "https://dodo.ac/np/images/e/ec/275_Hamlet_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ec/275_Hamlet_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "275",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-276",
+        "name": "Astrid",
+        "imageUrl": "https://dodo.ac/np/images/0/0a/276_Astrid_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0a/276_Astrid_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "276",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-277",
+        "name": "Monty",
+        "imageUrl": "https://dodo.ac/np/images/2/28/277_Monty_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/28/277_Monty_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "277",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-278",
+        "name": "Dora",
+        "imageUrl": "https://dodo.ac/np/images/2/25/278_Dora_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/25/278_Dora_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "278",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-279",
+        "name": "Biskit",
+        "imageUrl": "https://dodo.ac/np/images/c/ca/279_Biskit_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/ca/279_Biskit_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "279",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-280",
+        "name": "Victoria",
+        "imageUrl": "https://dodo.ac/np/images/5/5c/280_Victoria_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5c/280_Victoria_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "280",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-281",
+        "name": "Lyman",
+        "imageUrl": "https://dodo.ac/np/images/a/aa/281_Lyman_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/aa/281_Lyman_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "281",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-282",
+        "name": "Violet",
+        "imageUrl": "https://dodo.ac/np/images/4/41/282_Violet_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/41/282_Violet_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "282",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-283",
+        "name": "Frank",
+        "imageUrl": "https://dodo.ac/np/images/1/1a/283_Frank_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1a/283_Frank_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "283",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-284",
+        "name": "Chadder",
+        "imageUrl": "https://dodo.ac/np/images/8/84/284_Chadder_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/84/284_Chadder_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "284",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-285",
+        "name": "Merengue",
+        "imageUrl": "https://dodo.ac/np/images/4/4f/285_Merengue_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4f/285_Merengue_amiibo_card_NA.png",
+        "types": [
+            "Rhino"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "285",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-286",
+        "name": "Cube",
+        "imageUrl": "https://dodo.ac/np/images/4/44/286_Cube_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/44/286_Cube_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "286",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-287",
+        "name": "Claudia",
+        "imageUrl": "https://dodo.ac/np/images/9/90/287_Claudia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/90/287_Claudia_amiibo_card_NA.png",
+        "types": [
+            "Tiger"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "287",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-288",
+        "name": "Curly",
+        "imageUrl": "https://dodo.ac/np/images/1/1d/288_Curly_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1d/288_Curly_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "288",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-289",
+        "name": "Boomer",
+        "imageUrl": "https://dodo.ac/np/images/4/4f/289_Boomer_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4f/289_Boomer_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "289",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-290",
+        "name": "Caroline",
+        "imageUrl": "https://dodo.ac/np/images/c/cb/290_Caroline_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cb/290_Caroline_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "290",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-291",
+        "name": "Sparro",
+        "imageUrl": "https://dodo.ac/np/images/5/55/291_Sparro_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/55/291_Sparro_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "291",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-292",
+        "name": "Baabara",
+        "imageUrl": "https://dodo.ac/np/images/f/f7/292_Baabara_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f7/292_Baabara_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "292",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-293",
+        "name": "Rolf",
+        "imageUrl": "https://dodo.ac/np/images/2/21/293_Rolf_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/21/293_Rolf_amiibo_card_NA.png",
+        "types": [
+            "Tiger"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "293",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-294",
+        "name": "Maple",
+        "imageUrl": "https://dodo.ac/np/images/7/7d/294_Maple_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7d/294_Maple_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "294",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-295",
+        "name": "Antonio",
+        "imageUrl": "https://dodo.ac/np/images/d/dc/295_Antonio_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/dc/295_Antonio_amiibo_card_NA.png",
+        "types": [
+            "Anteater"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "295",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-296",
+        "name": "Soleil",
+        "imageUrl": "https://dodo.ac/np/images/4/4d/296_Soleil_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4d/296_Soleil_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "296",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-297",
+        "name": "Apollo",
+        "imageUrl": "https://dodo.ac/np/images/7/7b/297_Apollo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7b/297_Apollo_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "297",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-298",
+        "name": "Derwin",
+        "imageUrl": "https://dodo.ac/np/images/a/ad/298_Derwin_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ad/298_Derwin_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "298",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-299",
+        "name": "Francine",
+        "imageUrl": "https://dodo.ac/np/images/a/ae/299_Francine_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ae/299_Francine_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "299",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-300",
+        "name": "Chrissy",
+        "imageUrl": "https://dodo.ac/np/images/e/ec/300_Chrissy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ec/300_Chrissy_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "300",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-301",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/f/f5/301_Isabelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f5/301_Isabelle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "301",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-302",
+        "name": "Brewster",
+        "imageUrl": "https://dodo.ac/np/images/f/f6/302_Brewster_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f6/302_Brewster_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "302",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-303",
+        "name": "Katrina",
+        "imageUrl": "https://dodo.ac/np/images/c/c9/303_Katrina_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c9/303_Katrina_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "303",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-304",
+        "name": "Phineas",
+        "imageUrl": "https://dodo.ac/np/images/f/fa/304_Phineas_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/fa/304_Phineas_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "304",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-305",
+        "name": "Celeste",
+        "imageUrl": "https://dodo.ac/np/images/c/cf/305_Celeste_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cf/305_Celeste_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "305",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-306",
+        "name": "Tommy",
+        "imageUrl": "https://dodo.ac/np/images/3/30/306_Tommy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/30/306_Tommy_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "306",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-307",
+        "name": "Gracie",
+        "imageUrl": "https://dodo.ac/np/images/a/a2/307_Gracie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a2/307_Gracie_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "307",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-308",
+        "name": "Leilani",
+        "imageUrl": "https://dodo.ac/np/images/b/b6/308_Leilani_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b6/308_Leilani_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "308",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-309",
+        "name": "Resetti",
+        "imageUrl": "https://dodo.ac/np/images/8/8b/309_Resetti_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8b/309_Resetti_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "309",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-310",
+        "name": "Timmy",
+        "imageUrl": "https://dodo.ac/np/images/d/d1/310_Timmy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d1/310_Timmy_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "310",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-311",
+        "name": "Lottie",
+        "imageUrl": "https://dodo.ac/np/images/e/e7/311_Lottie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e7/311_Lottie_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "311",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-312",
+        "name": "Shrunk",
+        "imageUrl": "https://dodo.ac/np/images/7/76/312_Shrunk_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/76/312_Shrunk_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "312",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-313",
+        "name": "Pavé",
+        "imageUrl": "https://dodo.ac/np/images/d/df/313_Pav%C3%A9_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/df/313_Pav%C3%A9_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "313",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-314",
+        "name": "Gulliver",
+        "imageUrl": "https://dodo.ac/np/images/1/1a/314_Gulliver_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1a/314_Gulliver_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "314",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-315",
+        "name": "Redd",
+        "imageUrl": "https://dodo.ac/np/images/2/20/315_Redd_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/20/315_Redd_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "315",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-316",
+        "name": "Zipper",
+        "imageUrl": "https://dodo.ac/np/images/c/cd/316_Zipper_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cd/316_Zipper_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "316",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-317",
+        "name": "Goldie",
+        "imageUrl": "https://dodo.ac/np/images/7/7c/317_Goldie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7c/317_Goldie_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "317",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-318",
+        "name": "Stitches",
+        "imageUrl": "https://dodo.ac/np/images/3/33/318_Stitches_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/33/318_Stitches_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "318",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-319",
+        "name": "Pinky",
+        "imageUrl": "https://dodo.ac/np/images/e/e9/319_Pinky_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e9/319_Pinky_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "319",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-320",
+        "name": "Mott",
+        "imageUrl": "https://dodo.ac/np/images/c/c7/320_Mott_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c7/320_Mott_amiibo_card_NA.png",
+        "types": [
+            "Lion"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "320",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-321",
+        "name": "Mallary",
+        "imageUrl": "https://dodo.ac/np/images/7/7f/321_Mallary_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7f/321_Mallary_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "321",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-322",
+        "name": "Rocco",
+        "imageUrl": "https://dodo.ac/np/images/3/3a/322_Rocco_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3a/322_Rocco_amiibo_card_NA.png",
+        "types": [
+            "Hippo"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "322",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-323",
+        "name": "Katt",
+        "imageUrl": "https://dodo.ac/np/images/c/c5/323_Katt_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c5/323_Katt_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "323",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-324",
+        "name": "Graham",
+        "imageUrl": "https://dodo.ac/np/images/2/2e/324_Graham_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2e/324_Graham_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "324",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-325",
+        "name": "Peaches",
+        "imageUrl": "https://dodo.ac/np/images/b/bb/325_Peaches_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bb/325_Peaches_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "325",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-326",
+        "name": "Dizzy",
+        "imageUrl": "https://dodo.ac/np/images/4/4a/326_Dizzy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4a/326_Dizzy_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "326",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-327",
+        "name": "Penelope",
+        "imageUrl": "https://dodo.ac/np/images/b/bd/327_Penelope_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bd/327_Penelope_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "327",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-328",
+        "name": "Boone",
+        "imageUrl": "https://dodo.ac/np/images/4/4b/328_Boone_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4b/328_Boone_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "328",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-329",
+        "name": "Broffina",
+        "imageUrl": "https://dodo.ac/np/images/d/de/329_Broffina_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/de/329_Broffina_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "329",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-330",
+        "name": "Croque",
+        "imageUrl": "https://dodo.ac/np/images/4/41/330_Croque_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/41/330_Croque_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "330",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-331",
+        "name": "Pashmina",
+        "imageUrl": "https://dodo.ac/np/images/3/35/331_Pashmina_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/35/331_Pashmina_amiibo_card_NA.png",
+        "types": [
+            "Goat"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "331",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-332",
+        "name": "Shep",
+        "imageUrl": "https://dodo.ac/np/images/1/1c/332_Shep_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1c/332_Shep_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "332",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-333",
+        "name": "Lolly",
+        "imageUrl": "https://dodo.ac/np/images/5/5d/333_Lolly_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5d/333_Lolly_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "333",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-334",
+        "name": "Erik",
+        "imageUrl": "https://dodo.ac/np/images/8/88/334_Erik_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/88/334_Erik_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "334",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-335",
+        "name": "Dotty",
+        "imageUrl": "https://dodo.ac/np/images/4/4e/335_Dotty_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4e/335_Dotty_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "335",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-336",
+        "name": "Pierce",
+        "imageUrl": "https://dodo.ac/np/images/9/91/336_Pierce_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/91/336_Pierce_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "336",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-337",
+        "name": "Queenie",
+        "imageUrl": "https://dodo.ac/np/images/7/72/337_Queenie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/72/337_Queenie_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "337",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-338",
+        "name": "Fang",
+        "imageUrl": "https://dodo.ac/np/images/2/23/338_Fang_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/23/338_Fang_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "338",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-339",
+        "name": "Frita",
+        "imageUrl": "https://dodo.ac/np/images/3/3d/339_Frita_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3d/339_Frita_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "339",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-340",
+        "name": "Tex",
+        "imageUrl": "https://dodo.ac/np/images/e/e7/340_Tex_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e7/340_Tex_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "340",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-341",
+        "name": "Melba",
+        "imageUrl": "https://dodo.ac/np/images/b/b9/341_Melba_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b9/341_Melba_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "341",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-342",
+        "name": "Bones",
+        "imageUrl": "https://dodo.ac/np/images/0/07/342_Bones_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/07/342_Bones_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "342",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-343",
+        "name": "Anabelle",
+        "imageUrl": "https://dodo.ac/np/images/d/d3/343_Anabelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d3/343_Anabelle_amiibo_card_NA.png",
+        "types": [
+            "Anteater"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "343",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-344",
+        "name": "Rudy",
+        "imageUrl": "https://dodo.ac/np/images/8/8c/344_Rudy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8c/344_Rudy_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "344",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-345",
+        "name": "Naomi",
+        "imageUrl": "https://dodo.ac/np/images/e/e9/345_Naomi_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e9/345_Naomi_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "345",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-346",
+        "name": "Peewee",
+        "imageUrl": "https://dodo.ac/np/images/a/a8/346_Peewee_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a8/346_Peewee_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "346",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-347",
+        "name": "Tammy",
+        "imageUrl": "https://dodo.ac/np/images/c/c3/347_Tammy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c3/347_Tammy_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "347",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-348",
+        "name": "Olaf",
+        "imageUrl": "https://dodo.ac/np/images/3/3f/348_Olaf_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3f/348_Olaf_amiibo_card_NA.png",
+        "types": [
+            "Anteater"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "348",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-349",
+        "name": "Lucy",
+        "imageUrl": "https://dodo.ac/np/images/f/fd/349_Lucy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/fd/349_Lucy_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "349",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-350",
+        "name": "Elmer",
+        "imageUrl": "https://dodo.ac/np/images/5/56/350_Elmer_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/56/350_Elmer_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "350",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-351",
+        "name": "Puddles",
+        "imageUrl": "https://dodo.ac/np/images/a/a9/351_Puddles_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a9/351_Puddles_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "351",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-352",
+        "name": "Rory",
+        "imageUrl": "https://dodo.ac/np/images/e/e9/352_Rory_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e9/352_Rory_amiibo_card_NA.png",
+        "types": [
+            "Lion"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "352",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-353",
+        "name": "Elise",
+        "imageUrl": "https://dodo.ac/np/images/7/75/353_Elise_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/75/353_Elise_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "353",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-354",
+        "name": "Walt",
+        "imageUrl": "https://dodo.ac/np/images/5/52/354_Walt_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/52/354_Walt_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "354",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-355",
+        "name": "Mira",
+        "imageUrl": "https://dodo.ac/np/images/4/47/355_Mira_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/47/355_Mira_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "355",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-356",
+        "name": "Pietro",
+        "imageUrl": "https://dodo.ac/np/images/1/18/356_Pietro_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/18/356_Pietro_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "356",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-357",
+        "name": "Aurora",
+        "imageUrl": "https://dodo.ac/np/images/9/9d/357_Aurora_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9d/357_Aurora_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "357",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-358",
+        "name": "Papi",
+        "imageUrl": "https://dodo.ac/np/images/7/78/358_Papi_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/78/358_Papi_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "358",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-359",
+        "name": "Apple",
+        "imageUrl": "https://dodo.ac/np/images/1/1e/359_Apple_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1e/359_Apple_amiibo_card_NA.png",
+        "types": [
+            "Hamster"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "359",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-360",
+        "name": "Rod",
+        "imageUrl": "https://dodo.ac/np/images/3/37/360_Rod_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/37/360_Rod_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "360",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-361",
+        "name": "Purrl",
+        "imageUrl": "https://dodo.ac/np/images/1/16/361_Purrl_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/16/361_Purrl_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "361",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-362",
+        "name": "Static",
+        "imageUrl": "https://dodo.ac/np/images/1/12/362_Static_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/12/362_Static_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "362",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-363",
+        "name": "Celia",
+        "imageUrl": "https://dodo.ac/np/images/2/2c/363_Celia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2c/363_Celia_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "363",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-364",
+        "name": "Zucker",
+        "imageUrl": "https://dodo.ac/np/images/5/55/364_Zucker_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/55/364_Zucker_amiibo_card_NA.png",
+        "types": [
+            "Octopus"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "364",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-365",
+        "name": "Peggy",
+        "imageUrl": "https://dodo.ac/np/images/b/ba/365_Peggy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/ba/365_Peggy_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "365",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-366",
+        "name": "Ribbot",
+        "imageUrl": "https://dodo.ac/np/images/2/2b/366_Ribbot_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2b/366_Ribbot_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "366",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-367",
+        "name": "Annalise",
+        "imageUrl": "https://dodo.ac/np/images/e/ed/367_Annalise_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ed/367_Annalise_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "367",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-368",
+        "name": "Chow",
+        "imageUrl": "https://dodo.ac/np/images/7/79/368_Chow_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/79/368_Chow_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "368",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-369",
+        "name": "Sylvia",
+        "imageUrl": "https://dodo.ac/np/images/9/94/369_Sylvia_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/94/369_Sylvia_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "369",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-370",
+        "name": "Jacques",
+        "imageUrl": "https://dodo.ac/np/images/7/73/370_Jacques_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/73/370_Jacques_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "370",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-371",
+        "name": "Sally",
+        "imageUrl": "https://dodo.ac/np/images/b/b5/371_Sally_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b5/371_Sally_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "371",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-372",
+        "name": "Doc",
+        "imageUrl": "https://dodo.ac/np/images/d/d3/372_Doc_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d3/372_Doc_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "372",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-373",
+        "name": "Pompom",
+        "imageUrl": "https://dodo.ac/np/images/6/68/373_Pompom_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/68/373_Pompom_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "373",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-374",
+        "name": "Tank",
+        "imageUrl": "https://dodo.ac/np/images/c/cb/374_Tank_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cb/374_Tank_amiibo_card_NA.png",
+        "types": [
+            "Rhino"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "374",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-375",
+        "name": "Becky",
+        "imageUrl": "https://dodo.ac/np/images/3/3a/375_Becky_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3a/375_Becky_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "375",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-376",
+        "name": "Rizzo",
+        "imageUrl": "https://dodo.ac/np/images/7/7f/376_Rizzo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7f/376_Rizzo_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "376",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-377",
+        "name": "Sydney",
+        "imageUrl": "https://dodo.ac/np/images/a/a1/377_Sydney_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a1/377_Sydney_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "377",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-378",
+        "name": "Barold",
+        "imageUrl": "https://dodo.ac/np/images/0/04/378_Barold_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/04/378_Barold_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "378",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-379",
+        "name": "Nibbles",
+        "imageUrl": "https://dodo.ac/np/images/0/0e/379_Nibbles_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0e/379_Nibbles_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "379",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-380",
+        "name": "Kevin",
+        "imageUrl": "https://dodo.ac/np/images/4/47/380_Kevin_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/47/380_Kevin_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "380",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-381",
+        "name": "Gloria",
+        "imageUrl": "https://dodo.ac/np/images/4/4e/381_Gloria_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4e/381_Gloria_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "381",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-382",
+        "name": "Lobo",
+        "imageUrl": "https://dodo.ac/np/images/7/7f/382_Lobo_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7f/382_Lobo_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "382",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-383",
+        "name": "Hippeux",
+        "imageUrl": "https://dodo.ac/np/images/d/d2/383_Hippeux_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d2/383_Hippeux_amiibo_card_NA.png",
+        "types": [
+            "Hippo"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "383",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-384",
+        "name": "Margie",
+        "imageUrl": "https://dodo.ac/np/images/8/87/384_Margie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/87/384_Margie_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "384",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-385",
+        "name": "Lucky",
+        "imageUrl": "https://dodo.ac/np/images/1/17/385_Lucky_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/17/385_Lucky_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "385",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-386",
+        "name": "Rosie",
+        "imageUrl": "https://dodo.ac/np/images/d/d9/386_Rosie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d9/386_Rosie_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "386",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-387",
+        "name": "Rowan",
+        "imageUrl": "https://dodo.ac/np/images/f/f6/387_Rowan_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f6/387_Rowan_amiibo_card_NA.png",
+        "types": [
+            "Tiger"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "387",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-388",
+        "name": "Maelle",
+        "imageUrl": "https://dodo.ac/np/images/a/aa/388_Maelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/aa/388_Maelle_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "388",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-389",
+        "name": "Bruce",
+        "imageUrl": "https://dodo.ac/np/images/f/f6/389_Bruce_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f6/389_Bruce_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "389",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-390",
+        "name": "O'Hare",
+        "imageUrl": "https://dodo.ac/np/images/0/09/390_O%27Hare_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/09/390_O%27Hare_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "390",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-391",
+        "name": "Gayle",
+        "imageUrl": "https://dodo.ac/np/images/a/aa/391_Gayle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/aa/391_Gayle_amiibo_card_NA.png",
+        "types": [
+            "Alligator"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "391",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-392",
+        "name": "Cranston",
+        "imageUrl": "https://dodo.ac/np/images/1/1b/392_Cranston_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1b/392_Cranston_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "392",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-393",
+        "name": "Frobert",
+        "imageUrl": "https://dodo.ac/np/images/c/cb/393_Frobert_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cb/393_Frobert_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "393",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-394",
+        "name": "Grizzly",
+        "imageUrl": "https://dodo.ac/np/images/1/16/394_Grizzly_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/16/394_Grizzly_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "394",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-395",
+        "name": "Cally",
+        "imageUrl": "https://dodo.ac/np/images/3/33/395_Cally_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/33/395_Cally_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "395",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-396",
+        "name": "Simon",
+        "imageUrl": "https://dodo.ac/np/images/6/68/396_Simon_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/68/396_Simon_amiibo_card_NA.png",
+        "types": [
+            "Monkey"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "396",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-397",
+        "name": "Iggly",
+        "imageUrl": "https://dodo.ac/np/images/e/e4/397_Iggly_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e4/397_Iggly_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "397",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-398",
+        "name": "Angus",
+        "imageUrl": "https://dodo.ac/np/images/e/ef/398_Angus_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ef/398_Angus_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "398",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-399",
+        "name": "Twiggy",
+        "imageUrl": "https://dodo.ac/np/images/f/f9/399_Twiggy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f9/399_Twiggy_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "399",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-400",
+        "name": "Robin",
+        "imageUrl": "https://dodo.ac/np/images/1/12/400_Robin_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/12/400_Robin_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "400",
+        "artist": "Nintendo",
+        "rarity": "Common",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-401",
+        "name": "Tom Nook",
+        "imageUrl": "https://dodo.ac/np/images/8/80/401_Tom_Nook_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/80/401_Tom_Nook_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "401",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-402",
+        "name": "Timmy & Tommy",
+        "imageUrl": "https://dodo.ac/np/images/b/bc/402_Timmy_and_Tommy_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bc/402_Timmy_and_Tommy_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "402",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-403",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/a/a9/403_Isabelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a9/403_Isabelle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "403",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-404",
+        "name": "Blathers",
+        "imageUrl": "https://dodo.ac/np/images/3/3a/406_Blathers_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3a/406_Blathers_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "404",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-405",
+        "name": "Celeste",
+        "imageUrl": "https://dodo.ac/np/images/c/c2/407_Celeste_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c2/407_Celeste_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "405",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-406",
+        "name": "Mabel",
+        "imageUrl": "https://dodo.ac/np/images/8/89/408_Mabel_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/89/408_Mabel_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "406",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-407",
+        "name": "Sable",
+        "imageUrl": "https://dodo.ac/np/images/0/00/409_Sable_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/00/409_Sable_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "407",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-408",
+        "name": "Label",
+        "imageUrl": "https://dodo.ac/np/images/5/57/410_Label_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/57/410_Label_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "408",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-409",
+        "name": "K.K.",
+        "imageUrl": "https://dodo.ac/np/images/3/36/411_K.K._amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/36/411_K.K._amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "409",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-410",
+        "name": "Kicks",
+        "imageUrl": "https://dodo.ac/np/images/5/5d/415_Kicks_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5d/415_Kicks_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "410",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-411",
+        "name": "Saharah",
+        "imageUrl": "https://dodo.ac/np/images/f/fd/416_Saharah_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/fd/416_Saharah_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "411",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-412",
+        "name": "Gulliver",
+        "imageUrl": "https://dodo.ac/np/images/c/c1/418_Gulliver_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c1/418_Gulliver_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "412",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-413",
+        "name": "Lottie",
+        "imageUrl": "https://dodo.ac/np/images/7/77/420_Lottie_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/77/420_Lottie_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "413",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-414",
+        "name": "Tom Nook",
+        "imageUrl": "https://dodo.ac/np/images/a/a3/423_Tom_Nook_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a3/423_Tom_Nook_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "414",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-415",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/b/b3/424_Isabelle_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b3/424_Isabelle_amiibo_card_NA.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "415",
+        "artist": "Nintendo",
+        "rarity": "Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-416",
+        "name": "Vivian",
+        "imageUrl": "https://dodo.ac/np/images/b/b1/001_Vivian_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/b1/001_Vivian_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "416",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-417",
+        "name": "Hopkins",
+        "imageUrl": "https://dodo.ac/np/images/9/97/002_Hopkins_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/97/002_Hopkins_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "417",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-418",
+        "name": "June",
+        "imageUrl": "https://dodo.ac/np/images/8/8d/003_June_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8d/003_June_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "418",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-419",
+        "name": "Piper",
+        "imageUrl": "https://dodo.ac/np/images/0/01/004_Piper_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/01/004_Piper_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "419",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-420",
+        "name": "Paolo",
+        "imageUrl": "https://dodo.ac/np/images/e/e7/005_Paolo_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/e7/005_Paolo_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "420",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-421",
+        "name": "Hornsby",
+        "imageUrl": "https://dodo.ac/np/images/1/19/006_Hornsby_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/19/006_Hornsby_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Rhino"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "421",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-422",
+        "name": "Stella",
+        "imageUrl": "https://dodo.ac/np/images/9/94/007_Stella_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/94/007_Stella_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "422",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-423",
+        "name": "Tybalt",
+        "imageUrl": "https://dodo.ac/np/images/3/3f/008_Tybalt_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3f/008_Tybalt_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Tiger"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "423",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-424",
+        "name": "Huck",
+        "imageUrl": "https://dodo.ac/np/images/0/0f/009_Huck_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0f/009_Huck_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "424",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-425",
+        "name": "Sylvana",
+        "imageUrl": "https://dodo.ac/np/images/f/f0/010_Sylvana_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f0/010_Sylvana_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "425",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-426",
+        "name": "Boris",
+        "imageUrl": "https://dodo.ac/np/images/c/c5/011_Boris_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c5/011_Boris_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "426",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-427",
+        "name": "Wade",
+        "imageUrl": "https://dodo.ac/np/images/d/d1/012_Wade_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d1/012_Wade_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Penguin"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "427",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-428",
+        "name": "Carrie",
+        "imageUrl": "https://dodo.ac/np/images/c/c9/013_Carrie_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c9/013_Carrie_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Kangaroo"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "428",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-429",
+        "name": "Ketchup",
+        "imageUrl": "https://dodo.ac/np/images/0/0a/014_Ketchup_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/0a/014_Ketchup_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "429",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-430",
+        "name": "Rex",
+        "imageUrl": "https://dodo.ac/np/images/f/f3/015_Rex_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f3/015_Rex_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Lion"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "430",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-431",
+        "name": "Stu",
+        "imageUrl": "https://dodo.ac/np/images/4/49/016_Stu_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/49/016_Stu_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "431",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-432",
+        "name": "Ursala",
+        "imageUrl": "https://dodo.ac/np/images/8/8b/017_Ursala_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/8b/017_Ursala_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "Gemini",
+        "number": "432",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-433",
+        "name": "Jacob",
+        "imageUrl": "https://dodo.ac/np/images/a/ab/018_Jacob_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ab/018_Jacob_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "433",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-434",
+        "name": "Maddie",
+        "imageUrl": "https://dodo.ac/np/images/1/1e/019_Maddie_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1e/019_Maddie_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "434",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-435",
+        "name": "Billy",
+        "imageUrl": "https://dodo.ac/np/images/7/72/020_Billy_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/72/020_Billy_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Goat"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "435",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-436",
+        "name": "Boyd",
+        "imageUrl": "https://dodo.ac/np/images/7/7c/021_Boyd_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/7c/021_Boyd_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "436",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-437",
+        "name": "Bitty",
+        "imageUrl": "https://dodo.ac/np/images/1/1c/022_Bitty_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1c/022_Bitty_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Hippo"
+        ],
+        "supertype": "Card",
+        "subtype": "Cancer",
+        "number": "437",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-438",
+        "name": "Maggie",
+        "imageUrl": "https://dodo.ac/np/images/f/fd/023_Maggie_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/fd/023_Maggie_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Pig"
+        ],
+        "supertype": "Card",
+        "subtype": "Libra",
+        "number": "438",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-439",
+        "name": "Murphy",
+        "imageUrl": "https://dodo.ac/np/images/7/78/024_Murphy_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/78/024_Murphy_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "439",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-440",
+        "name": "Plucky",
+        "imageUrl": "https://dodo.ac/np/images/a/a6/025_Plucky_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a6/025_Plucky_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Chicken"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "440",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-441",
+        "name": "Sandy",
+        "imageUrl": "https://dodo.ac/np/images/9/90/026_Sandy_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/90/026_Sandy_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "441",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-442",
+        "name": "Claude",
+        "imageUrl": "https://dodo.ac/np/images/a/ac/027_Claude_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ac/027_Claude_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "442",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-443",
+        "name": "Raddle",
+        "imageUrl": "https://dodo.ac/np/images/4/4c/028_Raddle_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/4c/028_Raddle_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "Leo",
+        "number": "443",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-444",
+        "name": "Julia",
+        "imageUrl": "https://dodo.ac/np/images/8/80/029_Julia_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/80/029_Julia_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "444",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-445",
+        "name": "Louie",
+        "imageUrl": "https://dodo.ac/np/images/e/ea/030_Louie_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ea/030_Louie_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "Scorpio",
+        "number": "445",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-446",
+        "name": "Bea",
+        "imageUrl": "https://dodo.ac/np/images/5/5d/031_Bea_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5d/031_Bea_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "446",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-447",
+        "name": "Admiral",
+        "imageUrl": "https://dodo.ac/np/images/3/38/032_Admiral_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/38/032_Admiral_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bird"
+        ],
+        "supertype": "Card",
+        "subtype": "Taurus",
+        "number": "447",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-448",
+        "name": "Ellie",
+        "imageUrl": "https://dodo.ac/np/images/c/cc/033_Ellie_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cc/033_Ellie_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "Aries",
+        "number": "448",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-449",
+        "name": "Boots",
+        "imageUrl": "https://dodo.ac/np/images/a/a8/034_Boots_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a8/034_Boots_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Alligator"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "449",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-450",
+        "name": "Weber",
+        "imageUrl": "https://dodo.ac/np/images/2/2c/035_Weber_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/2/2c/035_Weber_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Duck"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "450",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-451",
+        "name": "Candi",
+        "imageUrl": "https://dodo.ac/np/images/f/f3/036_Candi_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f3/036_Candi_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Mouse"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "451",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-452",
+        "name": "Leopold",
+        "imageUrl": "https://dodo.ac/np/images/d/de/037_Leopold_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/de/037_Leopold_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Lion"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "452",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-453",
+        "name": "Spike",
+        "imageUrl": "https://dodo.ac/np/images/6/64/038_Spike_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/64/038_Spike_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Rhino"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "453",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-454",
+        "name": "Cashmere",
+        "imageUrl": "https://dodo.ac/np/images/a/ad/039_Cashmere_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/ad/039_Cashmere_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "454",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-455",
+        "name": "Tad",
+        "imageUrl": "https://dodo.ac/np/images/c/c1/040_Tad_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c1/040_Tad_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Frog"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "455",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-456",
+        "name": "Norma",
+        "imageUrl": "https://dodo.ac/np/images/e/ec/041_Norma_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ec/041_Norma_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bovine"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "456",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-457",
+        "name": "Gonzo",
+        "imageUrl": "https://dodo.ac/np/images/e/ea/042_Gonzo_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ea/042_Gonzo_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Koala"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "457",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-458",
+        "name": "Sprocket",
+        "imageUrl": "https://dodo.ac/np/images/6/61/043_Sprocket_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/61/043_Sprocket_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Ostrich"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "458",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-459",
+        "name": "Snooty",
+        "imageUrl": "https://dodo.ac/np/images/4/41/044_Snooty_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/41/044_Snooty_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Anteater"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "459",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-460",
+        "name": "Olive",
+        "imageUrl": "https://dodo.ac/np/images/3/3e/045_Olive_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3e/045_Olive_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "460",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-461",
+        "name": "Dobie",
+        "imageUrl": "https://dodo.ac/np/images/9/9e/046_Dobie_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/9e/046_Dobie_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Wolf"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "461",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-462",
+        "name": "Buzz",
+        "imageUrl": "https://dodo.ac/np/images/f/f9/047_Buzz_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/f/f9/047_Buzz_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Eagle"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "462",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-463",
+        "name": "Cleo",
+        "imageUrl": "https://dodo.ac/np/images/8/85/048_Cleo_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/85/048_Cleo_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Horse"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "463",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-464",
+        "name": "Ike",
+        "imageUrl": "https://dodo.ac/np/images/1/1e/049_Ike_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/1e/049_Ike_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Bear"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "464",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-465",
+        "name": "Tasha",
+        "imageUrl": "https://dodo.ac/np/images/a/a6/050_Tasha_NLWa_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a6/050_Tasha_NLWa_amiibo_card_NA.png",
+        "types": [
+            "Squirrel"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "465",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-466",
+        "name": "Rilla",
+        "imageUrl": "https://dodo.ac/np/images/a/a2/001_Rilla_Sanrio_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a2/001_Rilla_Sanrio_amiibo_card_NA.png",
+        "types": [
+            "Gorilla"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "466",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-467",
+        "name": "Marty",
+        "imageUrl": "https://dodo.ac/np/images/e/ea/002_Marty_Sanrio_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/ea/002_Marty_Sanrio_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "467",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-468",
+        "name": "Étoile",
+        "imageUrl": "https://dodo.ac/np/images/0/04/003_%C3%89toile_Sanrio_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/04/003_%C3%89toile_Sanrio_amiibo_card_NA.png",
+        "types": [
+            "Sheep"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "468",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-469",
+        "name": "Chai",
+        "imageUrl": "https://dodo.ac/np/images/0/02/004_Chai_Sanrio_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/02/004_Chai_Sanrio_amiibo_card_NA.png",
+        "types": [
+            "Elephant"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "469",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-470",
+        "name": "Chelsea",
+        "imageUrl": "https://dodo.ac/np/images/9/93/005_Chelsea_Sanrio_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/93/005_Chelsea_Sanrio_amiibo_card_NA.png",
+        "types": [
+            "Deer"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "470",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-471",
+        "name": "Toby",
+        "imageUrl": "https://dodo.ac/np/images/5/54/006_Toby_Sanrio_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/54/006_Toby_Sanrio_amiibo_card_NA.png",
+        "types": [
+            "Rabbit"
+        ],
+        "supertype": "Card",
+        "subtype": "-",
+        "number": "471",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-472",
+        "name": "Goldie",
+        "imageUrl": "https://dodo.ac/np/images/e/eb/Goldie_aF_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/e/eb/Goldie_aF_amiibo_card_NA.png",
+        "types": [
+            "Dog"
+        ],
+        "supertype": "Card",
+        "subtype": "Capricorn",
+        "number": "472",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-473",
+        "name": "Rosie",
+        "imageUrl": "https://dodo.ac/np/images/3/39/Rosie_aF_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/39/Rosie_aF_amiibo_card_NA.png",
+        "types": [
+            "Cat"
+        ],
+        "supertype": "Card",
+        "subtype": "Pisces",
+        "number": "473",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-474",
+        "name": "Stitches",
+        "imageUrl": "https://dodo.ac/np/images/d/d7/Stitches_aF_amiibo_card_NA.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/d7/Stitches_aF_amiibo_card_NA.png",
+        "types": [
+            "Bear cub"
+        ],
+        "supertype": "Card",
+        "subtype": "Aquarius",
+        "number": "474",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-475",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/8/85/Isabelle_Character_Parfait_amiibo_card_JP.jpg",
+        "imageUrlHiRes": "https://dodo.ac/np/images/8/85/Isabelle_Character_Parfait_amiibo_card_JP.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Sagittarius",
+        "number": "475",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-476",
+        "name": "K.K.",
+        "imageUrl": "https://dodo.ac/np/images/7/74/K.K._Pikopuri_amiibo_card_JP.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/74/K.K._Pikopuri_amiibo_card_JP.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Card",
+        "subtype": "Virgo",
+        "number": "476",
+        "artist": "Nintendo",
+        "rarity": "Uncommon",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-477",
+        "name": "Isabelle (Winter Outfit)",
+        "imageUrl": "https://dodo.ac/np/images/a/a1/Isabelle_-_Winter_Outfit_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a1/Isabelle_-_Winter_Outfit_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "477",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-478",
+        "name": "Tom Nook",
+        "imageUrl": "https://dodo.ac/np/images/3/35/Tom_Nook_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/35/Tom_Nook_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "478",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-479",
+        "name": "Mabel",
+        "imageUrl": "https://dodo.ac/np/images/a/a4/Mabel_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/a/a4/Mabel_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "479",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-480",
+        "name": "K.K. Slider",
+        "imageUrl": "https://dodo.ac/np/images/1/18/K.K._amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/1/18/K.K._amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "480",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-481",
+        "name": "Reese",
+        "imageUrl": "https://dodo.ac/np/images/5/5c/Reese_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5c/Reese_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "481",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-482",
+        "name": "Cyrus",
+        "imageUrl": "https://dodo.ac/np/images/6/62/Cyrus_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/6/62/Cyrus_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "482",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-483",
+        "name": "Digby",
+        "imageUrl": "https://dodo.ac/np/images/4/45/Digby_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/45/Digby_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "483",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-484",
+        "name": "Lottie",
+        "imageUrl": "https://dodo.ac/np/images/3/3b/Lottie_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/3b/Lottie_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "484",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-485",
+        "name": "Blathers",
+        "imageUrl": "https://dodo.ac/np/images/4/42/Blathers_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/4/42/Blathers_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "485",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-486",
+        "name": "Celeste",
+        "imageUrl": "https://dodo.ac/np/images/b/bb/Celeste_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/b/bb/Celeste_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "486",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-487",
+        "name": "Resetti",
+        "imageUrl": "https://dodo.ac/np/images/9/92/Resetti_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/9/92/Resetti_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "487",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-488",
+        "name": "Kicks",
+        "imageUrl": "https://dodo.ac/np/images/7/78/Kicks_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/7/78/Kicks_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "488",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-489",
+        "name": "Rover",
+        "imageUrl": "https://dodo.ac/np/images/0/00/Rover_amiibo_Figure.jpg",
+        "imageUrlHiRes": "https://dodo.ac/np/images/0/00/Rover_amiibo_Figure.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "489",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-490",
+        "name": "Timmy & Tommy",
+        "imageUrl": "https://dodo.ac/np/images/c/c3/Timmy_%26_Tommy_amiibo_Figure.jpg",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/c3/Timmy_%26_Tommy_amiibo_Figure.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "490",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-491",
+        "name": "Kapp'n",
+        "imageUrl": "https://dodo.ac/np/images/c/cf/Kapp%27n_amiibo_Figure.jpg",
+        "imageUrlHiRes": "https://dodo.ac/np/images/c/cf/Kapp%27n_amiibo_Figure.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "491",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-492",
+        "name": "Isabelle (Summer Outfit)",
+        "imageUrl": "https://dodo.ac/np/images/3/39/Isabelle_-_Summer_Outfit_amiibo_Figure.jpg",
+        "imageUrlHiRes": "https://dodo.ac/np/images/3/39/Isabelle_-_Summer_Outfit_amiibo_Figure.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "492",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-493",
+        "name": "Link",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaae.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaae.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "493",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-494",
+        "name": "Villager",
+        "imageUrl": "https://dodo.ac/np/images/d/de/Villager_amiibo_Figure.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/d/de/Villager_amiibo_Figure.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "494",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-495",
+        "name": "Zelda",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaaq.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaaq.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "495",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-496",
+        "name": "Toon Link",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaay.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaay.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "496",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-497",
+        "name": "Sheik",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaaz.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aaaz.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "497",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-498",
+        "name": "Ganondorf",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aabd.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aabd.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "498",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-499",
+        "name": "Inkling",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aacz.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aacz.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "499",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-500",
+        "name": "Young Link",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aact.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aact.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "500",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-501",
+        "name": "Isabelle",
+        "imageUrl": "https://dodo.ac/np/images/5/5e/Isabelle_amiibo_Figure_%28Super_Smash_Bros.%29.png",
+        "imageUrlHiRes": "https://dodo.ac/np/images/5/5e/Isabelle_amiibo_Figure_%28Super_Smash_Bros.%29.png",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "501",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-502",
+        "name": "Inkling Boy (Blue)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeab.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeab.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "502",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-503",
+        "name": "Inkling Girl (Orange)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeaa.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeaa.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "503",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-504",
+        "name": "Inkling Squid (Green)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeac.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeac.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "504",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-505",
+        "name": "Inkling Girl (Green)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeaf.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeaf.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "505",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-506",
+        "name": "Inkling Boy (Purple)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeag.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeag.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "506",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-507",
+        "name": "Inkling Squid (Orange)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeah.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeah.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "507",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-508",
+        "name": "Callie",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aead.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aead.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "508",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-509",
+        "name": "Marie",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeae.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeae.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "509",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-510",
+        "name": "Inkling Boy (Splatoon 2)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeak.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeak.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "510",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-511",
+        "name": "Inkling Girl (Splatoon 2)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeaj.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeaj.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "511",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-512",
+        "name": "Inkling Squid (Splatoon 2)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeal.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeal.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "512",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-513",
+        "name": "Inkling (Yellow)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeas.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/aeas.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "513",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-514",
+        "name": "Wolf Link (Twilight Princess)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaa.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaa.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "514",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-515",
+        "name": "Link - Twilight Princess",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akad.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akad.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "515",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-516",
+        "name": "Link - Skyward Sword",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akae.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akae.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "516",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-517",
+        "name": "Link - Majora's Mask",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akac.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akac.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "517",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-518",
+        "name": "Zelda and Loftwing",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaw.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaw.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "518",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-519",
+        "name": "Link (The Legend of Zelda)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaf.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaf.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "519",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-520",
+        "name": "Link (Ocarina of Time)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akab.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akab.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "520",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-521",
+        "name": "Toon Link (The Wind Waker)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akag.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akag.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "521",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-522",
+        "name": "Zelda (The Wind Waker)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaj.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akaj.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "522",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-523",
+        "name": "Navirou",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amac.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amac.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "523",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-524",
+        "name": "One-Eyed Rathalos and Rider (Girl)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amab.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amab.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "524",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-525",
+        "name": "One-Eyed Rathalos and Rider (Boy)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amaa.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amaa.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "525",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-526",
+        "name": "Rathian and Cheval",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amad.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amad.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "526",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-527",
+        "name": "Barioth and Ayulia",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amae.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amae.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "527",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-528",
+        "name": "Qurupeco and Dan",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amaf.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/amaf.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "528",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-529",
+        "name": "Guardian",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akam.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akam.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "529",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-530",
+        "name": "Link (Archer)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akak.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akak.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "530",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-531",
+        "name": "Link (Rider)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akal.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akal.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "531",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-532",
+        "name": "Zelda",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akan.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akan.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "532",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-533",
+        "name": "Bokoblin",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akau.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akau.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "533",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-534",
+        "name": "Link",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akav.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akav.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "534",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-535",
+        "name": "Link (Tears of the Kingdom)",
+        "imageUrl": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akax.jpg",
+        "imageUrlHiRes": "https://www.nintendo.co.jp/hardware/amiibo/lineup/img/thumb/akax.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "535",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-536",
+        "name": "Zelda (Tears of the Kingdom)",
+        "imageUrl": "https://www.nintendo.com/jp/hardware/amiibo/lineup/img/thumb/akay.jpg",
+        "imageUrlHiRes": "https://www.nintendo.com/jp/hardware/amiibo/lineup/img/thumb/akay.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "536",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    },
+    {
+        "id": "ACNL-537",
+        "name": "Ganondorf (Tears of the Kingdom)",
+        "imageUrl": "https://www.nintendo.com/jp/hardware/amiibo/lineup/img/thumb/akaz.jpg",
+        "imageUrlHiRes": "https://www.nintendo.com/jp/hardware/amiibo/lineup/img/thumb/akaz.jpg",
+        "types": [
+            "Special"
+        ],
+        "supertype": "Figure",
+        "subtype": "-",
+        "number": "537",
+        "artist": "Nintendo",
+        "rarity": "Holo Rare",
+        "series": "ACNL",
+        "set": "Animal Crossing Series",
+        "setCode": "ACNL"
+    }
+]
